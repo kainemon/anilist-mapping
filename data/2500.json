@@ -1,0 +1,13 @@
+{
+    "id": 2500,
+    "mal-id": 2500,
+    "url": "https://anilist.co/anime/2500",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "the-cockpit",
+            "dub-id": null
+        }
+    }
+}

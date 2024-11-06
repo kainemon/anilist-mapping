@@ -1,0 +1,13 @@
+{
+    "id": 620,
+    "mal-id": 620,
+    "url": "https://anilist.co/anime/620",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "mermaid-forest-dub",
+            "dub-id": null
+        }
+    }
+}

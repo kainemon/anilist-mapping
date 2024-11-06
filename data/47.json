@@ -1,0 +1,13 @@
+{
+    "id": 47,
+    "mal-id": 47,
+    "url": "https://anilist.co/anime/47",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "akira",
+            "dub-id": "akira-dub"
+        }
+    }
+}

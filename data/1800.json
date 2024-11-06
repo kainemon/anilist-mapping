@@ -1,0 +1,13 @@
+{
+    "id": 1800,
+    "mal-id": 1800,
+    "url": "https://anilist.co/anime/1800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "fatal-fury-2-the-new-battle-dub",
+            "dub-id": null
+        }
+    }
+}

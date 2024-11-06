@@ -1,0 +1,13 @@
+{
+    "id": 10620,
+    "mal-id": 10620,
+    "url": "https://anilist.co/anime/10620",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mirai-nikki",
+            "dub-id": "mirai-nikki-tv-dub"
+        }
+    }
+}

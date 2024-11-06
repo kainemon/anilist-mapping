@@ -1,0 +1,13 @@
+{
+    "id": 123,
+    "mal-id": 123,
+    "url": "https://anilist.co/anime/123",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fushigi-yuug",
+            "dub-id": "fushigi-yuugi-dub"
+        }
+    }
+}

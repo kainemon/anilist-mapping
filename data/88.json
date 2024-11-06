@@ -1,0 +1,13 @@
+{
+    "id": 88,
+    "mal-id": 88,
+    "url": "https://anilist.co/anime/88",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gundam-f91",
+            "dub-id": "mobile-suit-gundam-f91-dub"
+        }
+    }
+}

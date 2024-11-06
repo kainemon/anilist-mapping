@@ -1,0 +1,13 @@
+{
+    "id": 1184,
+    "mal-id": 1184,
+    "url": "https://anilist.co/anime/1184",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "lost-universe",
+            "dub-id": "lost-universe-dub"
+        }
+    }
+}

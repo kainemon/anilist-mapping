@@ -1,0 +1,13 @@
+{
+    "id": 999,
+    "mal-id": 999,
+    "url": "https://anilist.co/anime/999",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "blue-seed-beyond",
+            "dub-id": "blue-seed-2-dub"
+        }
+    }
+}

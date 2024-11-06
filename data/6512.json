@@ -1,0 +1,13 @@
+{
+    "id": 6512,
+    "mal-id": 6512,
+    "url": "https://anilist.co/anime/6512",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "nyan-koi",
+            "dub-id": "nyan-koi-dub"
+        }
+    }
+}

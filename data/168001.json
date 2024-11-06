@@ -1,0 +1,13 @@
+{
+    "id": 168001,
+    "mal-id": 55020,
+    "url": "https://anilist.co/anime/168001",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "go-go-vehicle-zoo",
+            "dub-id": null
+        }
+    }
+}

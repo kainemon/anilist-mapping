@@ -1,0 +1,13 @@
+{
+    "id": 4081,
+    "mal-id": 4081,
+    "url": "https://anilist.co/anime/4081",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "natsume-yuujinchou",
+            "dub-id": "tatsumi"
+        }
+    }
+}

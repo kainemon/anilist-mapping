@@ -1,0 +1,13 @@
+{
+    "id": 550,
+    "mal-id": 550,
+    "url": "https://anilist.co/anime/550",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "yu-gi-oh",
+            "dub-id": null
+        }
+    }
+}

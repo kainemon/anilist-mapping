@@ -1,0 +1,13 @@
+{
+    "id": 59,
+    "mal-id": 59,
+    "url": "https://anilist.co/anime/59",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "chobits",
+            "dub-id": "chobits-dub"
+        }
+    }
+}

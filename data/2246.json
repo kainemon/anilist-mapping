@@ -1,0 +1,13 @@
+{
+    "id": 2246,
+    "mal-id": 2246,
+    "url": "https://anilist.co/anime/2246",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mononoke",
+            "dub-id": "mononoke-dub"
+        }
+    }
+}

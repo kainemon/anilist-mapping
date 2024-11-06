@@ -1,0 +1,13 @@
+{
+    "id": 1835,
+    "mal-id": 1835,
+    "url": "https://anilist.co/anime/1835",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "megaman-star-force",
+            "dub-id": "megaman-star-force-dub"
+        }
+    }
+}

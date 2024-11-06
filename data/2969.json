@@ -1,0 +1,13 @@
+{
+    "id": 2969,
+    "mal-id": 2969,
+    "url": "https://anilist.co/anime/2969",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "appleseed-saga-ex-machina-dub",
+            "dub-id": "appleseed-ex-machina"
+        }
+    }
+}

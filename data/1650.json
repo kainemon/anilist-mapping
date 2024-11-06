@@ -1,0 +1,13 @@
+{
+    "id": 1650,
+    "mal-id": 1650,
+    "url": "https://anilist.co/anime/1650",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "space-battleship-yamato-dub",
+            "dub-id": "uchuu-senkan-yamato"
+        }
+    }
+}

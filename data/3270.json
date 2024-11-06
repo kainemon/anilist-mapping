@@ -1,0 +1,13 @@
+{
+    "id": 3270,
+    "mal-id": 3270,
+    "url": "https://anilist.co/anime/3270",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "igpx-immortal-grand-prix-dub",
+            "dub-id": "immortal-grand-prix"
+        }
+    }
+}

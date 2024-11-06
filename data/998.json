@@ -1,0 +1,13 @@
+{
+    "id": 998,
+    "mal-id": 998,
+    "url": "https://anilist.co/anime/998",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "blue-seed",
+            "dub-id": "blue-seed-dub"
+        }
+    }
+}

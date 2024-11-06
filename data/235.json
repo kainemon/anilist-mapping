@@ -1,0 +1,13 @@
+{
+    "id": 235,
+    "mal-id": 235,
+    "url": "https://anilist.co/anime/235",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "detective-conan",
+            "dub-id": "detective-conan-dub"
+        }
+    }
+}

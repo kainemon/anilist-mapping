@@ -1,0 +1,13 @@
+{
+    "id": 1025,
+    "mal-id": 1025,
+    "url": "https://anilist.co/anime/1025",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "the-legend-of-black-heaven-dub",
+            "dub-id": "black-heaven"
+        }
+    }
+}

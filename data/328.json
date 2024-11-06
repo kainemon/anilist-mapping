@@ -1,0 +1,13 @@
+{
+    "id": 328,
+    "mal-id": 328,
+    "url": "https://anilist.co/anime/328",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "piano-tv-dub",
+            "dub-id": null
+        }
+    }
+}

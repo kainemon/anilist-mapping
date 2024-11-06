@@ -1,0 +1,13 @@
+{
+    "id": 1009,
+    "mal-id": 1009,
+    "url": "https://anilist.co/anime/1009",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "battle-spirits-ryuuko-no-ken",
+            "dub-id": "battle-spirits-ryuuko-no-ken-dub"
+        }
+    }
+}

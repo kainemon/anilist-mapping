@@ -1,0 +1,13 @@
+{
+    "id": 152,
+    "mal-id": 152,
+    "url": "https://anilist.co/anime/152",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "solty-rei-dub",
+            "dub-id": null
+        }
+    }
+}

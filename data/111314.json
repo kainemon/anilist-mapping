@@ -1,0 +1,13 @@
+{
+    "id": 111314,
+    "mal-id": 40333,
+    "url": "https://anilist.co/anime/111314",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "uzumaki",
+            "dub-id": "uzumaki-dub"
+        }
+    }
+}

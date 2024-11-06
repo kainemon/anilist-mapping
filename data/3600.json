@@ -1,0 +1,13 @@
+{
+    "id": 3600,
+    "mal-id": 3600,
+    "url": "https://anilist.co/anime/3600",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "sengoku-kitan-youtouden",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 11837,
+    "mal-id": 11837,
+    "url": "https://anilist.co/anime/11837",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zetman",
+            "dub-id": "zetman-dub"
+        }
+    }
+}

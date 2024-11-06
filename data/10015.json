@@ -1,0 +1,13 @@
+{
+    "id": 10015,
+    "mal-id": 10015,
+    "url": "https://anilist.co/anime/10015",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "yu-gi-oh-zexal",
+            "dub-id": "yu-gi-oh-zexal-dub"
+        }
+    }
+}

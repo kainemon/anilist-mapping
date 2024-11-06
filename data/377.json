@@ -1,0 +1,13 @@
+{
+    "id": 377,
+    "mal-id": 377,
+    "url": "https://anilist.co/anime/377",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ex-driver-dub",
+            "dub-id": "ex-driver"
+        }
+    }
+}

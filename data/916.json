@@ -1,0 +1,13 @@
+{
+    "id": 916,
+    "mal-id": 916,
+    "url": "https://anilist.co/anime/916",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tokko",
+            "dub-id": "tokkou-dub"
+        }
+    }
+}

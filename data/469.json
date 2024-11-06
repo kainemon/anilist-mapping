@@ -1,0 +1,13 @@
+{
+    "id": 469,
+    "mal-id": 469,
+    "url": "https://anilist.co/anime/469",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "karin",
+            "dub-id": "karin-dub"
+        }
+    }
+}

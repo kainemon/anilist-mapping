@@ -1,0 +1,13 @@
+{
+    "id": 1450,
+    "mal-id": 1450,
+    "url": "https://anilist.co/anime/1450",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "brigadoon-dub",
+            "dub-id": "brigadoon-marin-to-melan"
+        }
+    }
+}

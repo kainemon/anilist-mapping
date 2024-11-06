@@ -1,0 +1,13 @@
+{
+    "id": 10800,
+    "mal-id": 10800,
+    "url": "https://anilist.co/anime/10800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "chihayafuru",
+            "dub-id": "chihayafuru-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1538,
+    "mal-id": 1538,
+    "url": "https://anilist.co/anime/1538",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pumpkin-scissors",
+            "dub-id": "pumpkin-scissors-dub"
+        }
+    }
+}

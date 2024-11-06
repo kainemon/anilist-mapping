@@ -1,0 +1,13 @@
+{
+    "id": 20455,
+    "mal-id": 20555,
+    "url": "https://anilist.co/anime/20455",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "super-sonico-animation",
+            "dub-id": "soniani-super-sonico-the-animation-dub"
+        }
+    }
+}

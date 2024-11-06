@@ -1,0 +1,13 @@
+{
+    "id": 325,
+    "mal-id": 325,
+    "url": "https://anilist.co/anime/325",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "peach-girl",
+            "dub-id": "peach-girl-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 143,
+    "mal-id": 143,
+    "url": "https://anilist.co/anime/143",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kannazuki-no-miko",
+            "dub-id": "kannazuki-no-miko-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 2581,
+    "mal-id": 2581,
+    "url": "https://anilist.co/anime/2581",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gundam-00",
+            "dub-id": "mobile-suit-gundam-00-dub"
+        }
+    }
+}

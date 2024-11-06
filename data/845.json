@@ -1,0 +1,13 @@
+{
+    "id": 845,
+    "mal-id": 845,
+    "url": "https://anilist.co/anime/845",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kiba",
+            "dub-id": "kiba-dub"
+        }
+    }
+}

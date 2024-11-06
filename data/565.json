@@ -1,0 +1,13 @@
+{
+    "id": 565,
+    "mal-id": 565,
+    "url": "https://anilist.co/anime/565",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "steamboy",
+            "dub-id": "steamboy-dub"
+        }
+    }
+}

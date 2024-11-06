@@ -1,0 +1,13 @@
+{
+    "id": 128,
+    "mal-id": 128,
+    "url": "https://anilist.co/anime/128",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gate-keepers-21-dub",
+            "dub-id": "gate-keepers-21"
+        }
+    }
+}

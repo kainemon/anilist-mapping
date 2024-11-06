@@ -1,0 +1,13 @@
+{
+    "id": 2002,
+    "mal-id": 2002,
+    "url": "https://anilist.co/anime/2002",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "heroic-age",
+            "dub-id": "heroic-age-dub"
+        }
+    }
+}

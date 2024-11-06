@@ -1,0 +1,13 @@
+{
+    "id": 3456,
+    "mal-id": 3456,
+    "url": "https://anilist.co/anime/3456",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "candy-boy",
+            "dub-id": null
+        }
+    }
+}

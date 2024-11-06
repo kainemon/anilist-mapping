@@ -1,0 +1,13 @@
+{
+    "id": 122,
+    "mal-id": 122,
+    "url": "https://anilist.co/anime/122",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "full-moon-o-sagashite",
+            "dub-id": "full-moon-wo-sagashite-dub"
+        }
+    }
+}

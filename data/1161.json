@@ -1,0 +1,13 @@
+{
+    "id": 1161,
+    "mal-id": 1161,
+    "url": "https://anilist.co/anime/1161",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mazebakunetsu-jikuu-tv",
+            "dub-id": "mazebakunetsu-jikuu-dub"
+        }
+    }
+}

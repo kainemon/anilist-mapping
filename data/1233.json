@@ -1,0 +1,13 @@
+{
+    "id": 1233,
+    "mal-id": 1233,
+    "url": "https://anilist.co/anime/1233",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "aozora-shoujo-tai",
+            "dub-id": "aozora-shoujotai-dub"
+        }
+    }
+}

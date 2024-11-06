@@ -1,0 +1,13 @@
+{
+    "id": 241,
+    "mal-id": 241,
+    "url": "https://anilist.co/anime/241",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "girls-bravo",
+            "dub-id": "girls-bravo-first-season-dub"
+        }
+    }
+}

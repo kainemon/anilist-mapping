@@ -1,0 +1,13 @@
+{
+    "id": 75,
+    "mal-id": 75,
+    "url": "https://anilist.co/anime/75",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fafner-dub",
+            "dub-id": "soukyuu-no-fafner-dead-aggressor"
+        }
+    }
+}

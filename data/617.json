@@ -1,0 +1,13 @@
+{
+    "id": 617,
+    "mal-id": 617,
+    "url": "https://anilist.co/anime/617",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ninja-scroll",
+            "dub-id": "ninja-scroll-movie"
+        }
+    }
+}

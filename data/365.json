@@ -1,0 +1,13 @@
+{
+    "id": 365,
+    "mal-id": 365,
+    "url": "https://anilist.co/anime/365",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fake-dub",
+            "dub-id": "fake"
+        }
+    }
+}

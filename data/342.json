@@ -1,0 +1,13 @@
+{
+    "id": 342,
+    "mal-id": 342,
+    "url": "https://anilist.co/anime/342",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "starship-operators",
+            "dub-id": "starship-operators-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 21123,
+    "mal-id": 31339,
+    "url": "https://anilist.co/anime/21123",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "drifters",
+            "dub-id": "drifters-dub"
+        }
+    }
+}

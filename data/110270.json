@@ -1,0 +1,13 @@
+{
+    "id": 110270,
+    "mal-id": 40010,
+    "url": "https://anilist.co/anime/110270",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ishuzoku-reviewers",
+            "dub-id": "ishuzoku-reviewers-dub"
+        }
+    }
+}

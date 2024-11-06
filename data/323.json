@@ -1,0 +1,13 @@
+{
+    "id": 323,
+    "mal-id": 323,
+    "url": "https://anilist.co/anime/323",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mousou-dairinin-dub",
+            "dub-id": "paranoia-agent"
+        }
+    }
+}

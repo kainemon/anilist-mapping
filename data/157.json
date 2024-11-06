@@ -1,0 +1,13 @@
+{
+    "id": 157,
+    "mal-id": 157,
+    "url": "https://anilist.co/anime/157",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mahou-sensei-negima",
+            "dub-id": "mahou-sensei-negima-dub"
+        }
+    }
+}

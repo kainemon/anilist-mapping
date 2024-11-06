@@ -1,0 +1,13 @@
+{
+    "id": 1670,
+    "mal-id": 1670,
+    "url": "https://anilist.co/anime/1670",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "beyblade-the-movie",
+            "dub-id": "beyblade-fierce-battle"
+        }
+    }
+}

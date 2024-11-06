@@ -1,0 +1,13 @@
+{
+    "id": 552,
+    "mal-id": 552,
+    "url": "https://anilist.co/anime/552",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "digimon-adventure",
+            "dub-id": "digimon-adventure-2"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 935,
+    "mal-id": 935,
+    "url": "https://anilist.co/anime/935",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "witchblade",
+            "dub-id": "witchblade-dub"
+        }
+    }
+}

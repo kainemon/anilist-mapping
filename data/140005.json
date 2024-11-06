@@ -1,0 +1,13 @@
+{
+    "id": 140005,
+    "mal-id": 50010,
+    "url": "https://anilist.co/anime/140005",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "meitantei-conan-hannin-no-hanzawa-san",
+            "dub-id": "meitantei-conan-hannin-no-hanzawa-san-dub"
+        }
+    }
+}

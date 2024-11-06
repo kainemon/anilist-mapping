@@ -1,0 +1,13 @@
+{
+    "id": 2013,
+    "mal-id": 2013,
+    "url": "https://anilist.co/anime/2013",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "youre-under-arrest-the-movie-dub",
+            "dub-id": "youre-under-arrest-the-movie"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 49,
+    "mal-id": 49,
+    "url": "https://anilist.co/anime/49",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ah-my-goddess",
+            "dub-id": "aa-megami-sama-tv-dub"
+        }
+    }
+}

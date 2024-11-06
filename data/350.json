@@ -1,0 +1,13 @@
+{
+    "id": 350,
+    "mal-id": 350,
+    "url": "https://anilist.co/anime/350",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ojamajo-doremi",
+            "dub-id": "ojamajo-doremi-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 2285,
+    "mal-id": 2285,
+    "url": "https://anilist.co/anime/2285",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "dice-dub",
+            "dub-id": null
+        }
+    }
+}

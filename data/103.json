@@ -1,0 +1,13 @@
+{
+    "id": 103,
+    "mal-id": 103,
+    "url": "https://anilist.co/anime/103",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "akazukin-cha-cha",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 87,
+    "mal-id": 87,
+    "url": "https://anilist.co/anime/87",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-gundam-chars-counterattack-dub",
+            "dub-id": "mobile-suit-gundam-chars-counterattack"
+        }
+    }
+}

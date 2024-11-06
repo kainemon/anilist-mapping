@@ -1,0 +1,13 @@
+{
+    "id": 1760,
+    "mal-id": 1760,
+    "url": "https://anilist.co/anime/1760",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "golgo-13-dub",
+            "dub-id": "golgo-13-the-professional-dub"
+        }
+    }
+}

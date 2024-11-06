@@ -1,0 +1,13 @@
+{
+    "id": 2009,
+    "mal-id": 2009,
+    "url": "https://anilist.co/anime/2009",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "yawara-zutto-kimi-no-koto-ga",
+            "dub-id": null
+        }
+    }
+}

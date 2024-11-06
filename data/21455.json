@@ -1,0 +1,13 @@
+{
+    "id": 21455,
+    "mal-id": 31953,
+    "url": "https://anilist.co/anime/21455",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "new-game",
+            "dub-id": "new-game-2-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 455,
+    "mal-id": 455,
+    "url": "https://anilist.co/anime/455",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fantastic-children-dub",
+            "dub-id": "fantastic-children"
+        }
+    }
+}

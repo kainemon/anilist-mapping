@@ -1,0 +1,13 @@
+{
+    "id": 624,
+    "mal-id": 624,
+    "url": "https://anilist.co/anime/624",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mouse",
+            "dub-id": "mouse-dub"
+        }
+    }
+}

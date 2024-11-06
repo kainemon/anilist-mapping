@@ -1,0 +1,13 @@
+{
+    "id": 800,
+    "mal-id": 800,
+    "url": "https://anilist.co/anime/800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "niea-under-7",
+            "dub-id": null
+        }
+    }
+}

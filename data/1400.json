@@ -1,0 +1,13 @@
+{
+    "id": 1400,
+    "mal-id": 1400,
+    "url": "https://anilist.co/anime/1400",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "macross-7-the-galaxy-is-calling-me",
+            "dub-id": null
+        }
+    }
+}

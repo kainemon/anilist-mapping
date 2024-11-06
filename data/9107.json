@@ -1,0 +1,13 @@
+{
+    "id": 9107,
+    "mal-id": 9107,
+    "url": "https://anilist.co/anime/9107",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-black-white-dub",
+            "dub-id": "pokemon-best-wishes"
+        }
+    }
+}

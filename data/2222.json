@@ -1,0 +1,13 @@
+{
+    "id": 2222,
+    "mal-id": 2222,
+    "url": "https://anilist.co/anime/2222",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "dr-slump-arale-chan",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 249,
+    "mal-id": 249,
+    "url": "https://anilist.co/anime/249",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "inuyasha",
+            "dub-id": "inuyasha-dub"
+        }
+    }
+}

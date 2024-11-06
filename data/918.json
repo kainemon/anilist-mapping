@@ -1,0 +1,13 @@
+{
+    "id": 918,
+    "mal-id": 918,
+    "url": "https://anilist.co/anime/918",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gintama",
+            "dub-id": "gintama-dub"
+        }
+    }
+}

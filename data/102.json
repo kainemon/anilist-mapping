@@ -1,0 +1,13 @@
+{
+    "id": 102,
+    "mal-id": 102,
+    "url": "https://anilist.co/anime/102",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "aishiteruze-baby",
+            "dub-id": null
+        }
+    }
+}

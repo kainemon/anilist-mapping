@@ -1,0 +1,13 @@
+{
+    "id": 10447,
+    "mal-id": 10447,
+    "url": "https://anilist.co/anime/10447",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "aquarion-dub",
+            "dub-id": "aquarion-evol"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 400,
+    "mal-id": 400,
+    "url": "https://anilist.co/anime/400",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "outlaw-star",
+            "dub-id": "seihou-bukyou-outlaw-star"
+        }
+    }
+}

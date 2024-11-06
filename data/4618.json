@@ -1,0 +1,13 @@
+{
+    "id": 4618,
+    "mal-id": 4618,
+    "url": "https://anilist.co/anime/4618",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rideback-dub",
+            "dub-id": "rideback"
+        }
+    }
+}

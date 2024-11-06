@@ -1,0 +1,13 @@
+{
+    "id": 256,
+    "mal-id": 256,
+    "url": "https://anilist.co/anime/256",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "voices-of-a-distant-star",
+            "dub-id": "hoshi-no-koe-dub"
+        }
+    }
+}

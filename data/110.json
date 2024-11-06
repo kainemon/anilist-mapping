@@ -1,0 +1,13 @@
+{
+    "id": 110,
+    "mal-id": 110,
+    "url": "https://anilist.co/anime/110",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "chuuka-ichiban",
+            "dub-id": null
+        }
+    }
+}

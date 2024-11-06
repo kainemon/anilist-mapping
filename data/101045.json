@@ -1,0 +1,13 @@
+{
+    "id": 101045,
+    "mal-id": 37259,
+    "url": "https://anilist.co/anime/101045",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hanebado",
+            "dub-id": "hanebado-dub"
+        }
+    }
+}

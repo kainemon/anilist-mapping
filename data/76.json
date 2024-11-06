@@ -1,0 +1,13 @@
+{
+    "id": 76,
+    "mal-id": 76,
+    "url": "https://anilist.co/anime/76",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "magical-girl-lyrical-nanoha",
+            "dub-id": "mahou-shoujo-lyrical-nanoha-as-dub"
+        }
+    }
+}

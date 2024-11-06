@@ -1,0 +1,13 @@
+{
+    "id": 3785,
+    "mal-id": 3785,
+    "url": "https://anilist.co/anime/3785",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "evangelion-3-0-you-can-not-redo-dub",
+            "dub-id": "evangelion-30-you-can-not-redo-movie"
+        }
+    }
+}

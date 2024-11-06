@@ -1,0 +1,13 @@
+{
+    "id": 286,
+    "mal-id": 286,
+    "url": "https://anilist.co/anime/286",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "bt-x",
+            "dub-id": "bt-x-dub"
+        }
+    }
+}

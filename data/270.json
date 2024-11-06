@@ -1,0 +1,13 @@
+{
+    "id": 270,
+    "mal-id": 270,
+    "url": "https://anilist.co/anime/270",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hellsing",
+            "dub-id": "hellsing-dub"
+        }
+    }
+}

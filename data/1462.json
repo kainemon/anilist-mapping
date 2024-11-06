@@ -1,0 +1,13 @@
+{
+    "id": 1462,
+    "mal-id": 1462,
+    "url": "https://anilist.co/anime/1462",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "memories",
+            "dub-id": "memories-dub"
+        }
+    }
+}

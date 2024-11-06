@@ -1,0 +1,13 @@
+{
+    "id": 100663,
+    "mal-id": 36871,
+    "url": "https://anilist.co/anime/100663",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ultraman",
+            "dub-id": "ultraman-dub"
+        }
+    }
+}

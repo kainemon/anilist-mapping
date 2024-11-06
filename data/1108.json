@@ -1,0 +1,13 @@
+{
+    "id": 1108,
+    "mal-id": 1108,
+    "url": "https://anilist.co/anime/1108",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "soul-hunter-dub",
+            "dub-id": "soul-hunter-"
+        }
+    }
+}

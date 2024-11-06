@@ -1,0 +1,13 @@
+{
+    "id": 277,
+    "mal-id": 277,
+    "url": "https://anilist.co/anime/277",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mahoromatic-dub",
+            "dub-id": "mahoromatic-s2-"
+        }
+    }
+}

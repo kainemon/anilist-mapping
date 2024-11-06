@@ -1,0 +1,13 @@
+{
+    "id": 225,
+    "mal-id": 225,
+    "url": "https://anilist.co/anime/225",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball-gt",
+            "dub-id": "dragon-ball-gt-dub"
+        }
+    }
+}

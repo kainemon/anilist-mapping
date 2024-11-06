@@ -1,0 +1,13 @@
+{
+    "id": 974,
+    "mal-id": 974,
+    "url": "https://anilist.co/anime/974",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dead-leaves",
+            "dub-id": "dead-leaves-dub"
+        }
+    }
+}

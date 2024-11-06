@@ -1,0 +1,13 @@
+{
+    "id": 404,
+    "mal-id": 404,
+    "url": "https://anilist.co/anime/404",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "bastard",
+            "dub-id": "bastard-dub"
+        }
+    }
+}

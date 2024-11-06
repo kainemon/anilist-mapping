@@ -1,0 +1,13 @@
+{
+    "id": 345,
+    "mal-id": 345,
+    "url": "https://anilist.co/anime/345",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "emma-a-victorian-romance",
+            "dub-id": "eikoku-koi-monogatari-emma-dub"
+        }
+    }
+}

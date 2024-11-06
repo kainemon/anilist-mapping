@@ -1,0 +1,13 @@
+{
+    "id": 10110,
+    "mal-id": 10110,
+    "url": "https://anilist.co/anime/10110",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mayo-chiki",
+            "dub-id": "mayo-chiki-dub"
+        }
+    }
+}

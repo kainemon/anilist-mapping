@@ -1,0 +1,13 @@
+{
+    "id": 101609,
+    "mal-id": 37823,
+    "url": "https://anilist.co/anime/101609",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "conception",
+            "dub-id": "conception-dub"
+        }
+    }
+}

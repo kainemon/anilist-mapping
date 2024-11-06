@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "mal-id": 6,
+    "url": "https://anilist.co/anime/6",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "trigun",
+            "dub-id": "trigun-dub"
+        }
+    }
+}

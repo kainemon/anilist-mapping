@@ -1,0 +1,13 @@
+{
+    "id": 267,
+    "mal-id": 267,
+    "url": "https://anilist.co/anime/267",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gungrave",
+            "dub-id": "gungrave-dub"
+        }
+    }
+}

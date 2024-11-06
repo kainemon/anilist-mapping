@@ -1,0 +1,13 @@
+{
+    "id": 9745,
+    "mal-id": 9745,
+    "url": "https://anilist.co/anime/9745",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "sengoku-basara-movie-the-last-party-dub",
+            "dub-id": "sengoku-basara-the-last-party"
+        }
+    }
+}

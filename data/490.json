@@ -1,0 +1,13 @@
+{
+    "id": 490,
+    "mal-id": 490,
+    "url": "https://anilist.co/anime/490",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pani-poni-dash-ova",
+            "dub-id": "paniponi-dash-dub"
+        }
+    }
+}

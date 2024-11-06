@@ -1,0 +1,13 @@
+{
+    "id": 4200,
+    "mal-id": 4200,
+    "url": "https://anilist.co/anime/4200",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dirty-pair-ova",
+            "dub-id": "dirty-pair-ova-dub"
+        }
+    }
+}

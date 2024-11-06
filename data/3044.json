@@ -1,0 +1,13 @@
+{
+    "id": 3044,
+    "mal-id": 3044,
+    "url": "https://anilist.co/anime/3044",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "astro-boy-1980-dub",
+            "dub-id": "tetsuwan-atom-1980"
+        }
+    }
+}

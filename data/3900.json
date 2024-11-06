@@ -1,0 +1,13 @@
+{
+    "id": 3900,
+    "mal-id": 3900,
+    "url": "https://anilist.co/anime/3900",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "ougon-bat",
+            "dub-id": null
+        }
+    }
+}

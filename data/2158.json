@@ -1,0 +1,13 @@
+{
+    "id": 2158,
+    "mal-id": 2158,
+    "url": "https://anilist.co/anime/2158",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "terra-e-dub",
+            "dub-id": "terra-e-tv"
+        }
+    }
+}

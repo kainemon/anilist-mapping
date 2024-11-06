@@ -1,0 +1,13 @@
+{
+    "id": 2001,
+    "mal-id": 2001,
+    "url": "https://anilist.co/anime/2001",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gurren-lagann-dub",
+            "dub-id": "tengen-toppa-gurren-lagann-"
+        }
+    }
+}

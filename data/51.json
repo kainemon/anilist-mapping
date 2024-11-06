@@ -1,0 +1,13 @@
+{
+    "id": 51,
+    "mal-id": 51,
+    "url": "https://anilist.co/anime/51",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "angel-sanctuary",
+            "dub-id": "angel-sanctuary-dub"
+        }
+    }
+}

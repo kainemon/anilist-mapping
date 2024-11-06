@@ -1,0 +1,13 @@
+{
+    "id": 383,
+    "mal-id": 383,
+    "url": "https://anilist.co/anime/383",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "galaxy-angel",
+            "dub-id": "galaxy-angel-dub"
+        }
+    }
+}

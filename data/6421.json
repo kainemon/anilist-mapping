@@ -1,0 +1,13 @@
+{
+    "id": 6421,
+    "mal-id": 6421,
+    "url": "https://anilist.co/anime/6421",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fullmetal-alchemist-blind-alchemist",
+            "dub-id": "fullmetal-alchemist-brotherhood-specials-dub"
+        }
+    }
+}

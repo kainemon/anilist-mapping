@@ -1,0 +1,13 @@
+{
+    "id": 917,
+    "mal-id": 917,
+    "url": "https://anilist.co/anime/917",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "riding-bean",
+            "dub-id": "riding-bean-dub"
+        }
+    }
+}

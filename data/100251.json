@@ -1,0 +1,13 @@
+{
+    "id": 100251,
+    "mal-id": 36525,
+    "url": "https://anilist.co/anime/100251",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dorei-ku-the-animation",
+            "dub-id": "dorei-ku-the-animation-dub"
+        }
+    }
+}

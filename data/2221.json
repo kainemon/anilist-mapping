@@ -1,0 +1,13 @@
+{
+    "id": 2221,
+    "mal-id": 2221,
+    "url": "https://anilist.co/anime/2221",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "aishite-knight",
+            "dub-id": "ai-shite-night"
+        }
+    }
+}

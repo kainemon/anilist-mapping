@@ -1,0 +1,13 @@
+{
+    "id": 18,
+    "mal-id": 18,
+    "url": "https://anilist.co/anime/18",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "initial-d-fourth-stage",
+            "dub-id": "initial-d-fourth-stage-dub"
+        }
+    }
+}

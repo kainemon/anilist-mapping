@@ -1,0 +1,13 @@
+{
+    "id": 6875,
+    "mal-id": 6875,
+    "url": "https://anilist.co/anime/6875",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "iron-man",
+            "dub-id": "iron-man-dub"
+        }
+    }
+}

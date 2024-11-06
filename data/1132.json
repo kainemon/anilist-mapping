@@ -1,0 +1,13 @@
+{
+    "id": 1132,
+    "mal-id": 1132,
+    "url": "https://anilist.co/anime/1132",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "digimon-frontier",
+            "dub-id": "digimon-frontier-dub"
+        }
+    }
+}

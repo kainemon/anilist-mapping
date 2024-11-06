@@ -1,0 +1,13 @@
+{
+    "id": 458,
+    "mal-id": 458,
+    "url": "https://anilist.co/anime/458",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "buttobi-cpu",
+            "dub-id": "buttobi-cpu-dub"
+        }
+    }
+}

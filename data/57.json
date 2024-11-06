@@ -1,0 +1,13 @@
+{
+    "id": 57,
+    "mal-id": 57,
+    "url": "https://anilist.co/anime/57",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "beck",
+            "dub-id": "beck-dub"
+        }
+    }
+}

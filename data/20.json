@@ -1,0 +1,13 @@
+{
+    "id": 20,
+    "mal-id": 20,
+    "url": "https://anilist.co/anime/20",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "naruto",
+            "dub-id": "naruto-dub"
+        }
+    }
+}

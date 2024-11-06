@@ -1,0 +1,13 @@
+{
+    "id": 199,
+    "mal-id": 199,
+    "url": "https://anilist.co/anime/199",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "spirited-away-dub",
+            "dub-id": "sen-to-chihiro-no-kamikakushi"
+        }
+    }
+}

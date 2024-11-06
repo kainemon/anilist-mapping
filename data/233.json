@@ -1,0 +1,13 @@
+{
+    "id": 233,
+    "mal-id": 233,
+    "url": "https://anilist.co/anime/233",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "daa-daa-daa",
+            "dub-id": null
+        }
+    }
+}

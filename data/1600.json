@@ -1,0 +1,13 @@
+{
+    "id": 1600,
+    "mal-id": 1600,
+    "url": "https://anilist.co/anime/1600",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "galaxy-angel-rune",
+            "dub-id": null
+        }
+    }
+}

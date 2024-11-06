@@ -1,0 +1,13 @@
+{
+    "id": 4722,
+    "mal-id": 4722,
+    "url": "https://anilist.co/anime/4722",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "skip-beat",
+            "dub-id": "skip-beat-dub"
+        }
+    }
+}

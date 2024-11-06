@@ -1,0 +1,13 @@
+{
+    "id": 135,
+    "mal-id": 135,
+    "url": "https://anilist.co/anime/135",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hikaru-no-go",
+            "dub-id": "hikaru-no-go-dub"
+        }
+    }
+}

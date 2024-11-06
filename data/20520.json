@@ -1,0 +1,13 @@
+{
+    "id": 20520,
+    "mal-id": 21105,
+    "url": "https://anilist.co/anime/20520",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "love-stage",
+            "dub-id": "love-stage-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 141014,
+    "mal-id": 50273,
+    "url": "https://anilist.co/anime/141014",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tomodachi-game",
+            "dub-id": "tomodachi-game-dub"
+        }
+    }
+}

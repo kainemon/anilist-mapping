@@ -1,0 +1,13 @@
+{
+    "id": 226,
+    "mal-id": 226,
+    "url": "https://anilist.co/anime/226",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "elfen-lied",
+            "dub-id": "elfen-lied-dub"
+        }
+    }
+}

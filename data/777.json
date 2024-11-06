@@ -1,0 +1,13 @@
+{
+    "id": 777,
+    "mal-id": 777,
+    "url": "https://anilist.co/anime/777",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hellsing-ultimate",
+            "dub-id": "hellsing-ultimate-dub"
+        }
+    }
+}

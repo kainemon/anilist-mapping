@@ -1,0 +1,13 @@
+{
+    "id": 732,
+    "mal-id": 732,
+    "url": "https://anilist.co/anime/732",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "vampire-hunter-d-dub",
+            "dub-id": "vampire-hunter-dub"
+        }
+    }
+}

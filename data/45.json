@@ -1,0 +1,13 @@
+{
+    "id": 45,
+    "mal-id": 45,
+    "url": "https://anilist.co/anime/45",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rurouni-kenshin-",
+            "dub-id": "rurouni-kenshin-dub"
+        }
+    }
+}

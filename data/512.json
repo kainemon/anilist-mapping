@@ -1,0 +1,13 @@
+{
+    "id": 512,
+    "mal-id": 512,
+    "url": "https://anilist.co/anime/512",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "majo-no-takkyuubin",
+            "dub-id": "kikis-delivery-service"
+        }
+    }
+}

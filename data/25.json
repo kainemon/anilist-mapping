@@ -1,0 +1,13 @@
+{
+    "id": 25,
+    "mal-id": 25,
+    "url": "https://anilist.co/anime/25",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "desert-punk",
+            "dub-id": "desert-punk-dub"
+        }
+    }
+}

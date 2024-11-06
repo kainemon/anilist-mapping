@@ -1,0 +1,13 @@
+{
+    "id": 81,
+    "mal-id": 81,
+    "url": "https://anilist.co/anime/81",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-gundam-the-08th-ms-team",
+            "dub-id": "mobile-suit-gundam-the-08th-ms-team-dub"
+        }
+    }
+}

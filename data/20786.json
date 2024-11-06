@@ -1,0 +1,13 @@
+{
+    "id": 20786,
+    "mal-id": 22677,
+    "url": "https://anilist.co/anime/20786",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "appleseed-dub",
+            "dub-id": "appleseed-alpha"
+        }
+    }
+}

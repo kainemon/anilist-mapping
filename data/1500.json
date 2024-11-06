@@ -1,0 +1,13 @@
+{
+    "id": 1500,
+    "mal-id": 1500,
+    "url": "https://anilist.co/anime/1500",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "teizokurei-daydream-dub",
+            "dub-id": "teizokurei-daydream"
+        }
+    }
+}

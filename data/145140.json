@@ -1,0 +1,13 @@
+{
+    "id": 145140,
+    "mal-id": 51020,
+    "url": "https://anilist.co/anime/145140",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "helck",
+            "dub-id": "helck-dub"
+        }
+    }
+}

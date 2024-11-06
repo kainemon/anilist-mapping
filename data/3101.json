@@ -1,0 +1,13 @@
+{
+    "id": 3101,
+    "mal-id": 3101,
+    "url": "https://anilist.co/anime/3101",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "f-zero-falcon-densetsu",
+            "dub-id": null
+        }
+    }
+}

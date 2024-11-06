@@ -1,0 +1,13 @@
+{
+    "id": 22,
+    "mal-id": 22,
+    "url": "https://anilist.co/anime/22",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "prince-of-tennis",
+            "dub-id": "the-prince-of-tennis-ova"
+        }
+    }
+}

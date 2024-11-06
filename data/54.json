@@ -1,0 +1,13 @@
+{
+    "id": 54,
+    "mal-id": 54,
+    "url": "https://anilist.co/anime/54",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "appleseed-movie",
+            "dub-id": null
+        }
+    }
+}

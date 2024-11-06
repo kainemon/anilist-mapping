@@ -1,0 +1,13 @@
+{
+    "id": 20800,
+    "mal-id": 25519,
+    "url": "https://anilist.co/anime/20800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "yuuki-yuuna-wa-yuusha-de-aru",
+            "dub-id": "yuuki-yuuna-wa-yuusha-de-aru-dub"
+        }
+    }
+}

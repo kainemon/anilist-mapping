@@ -1,0 +1,13 @@
+{
+    "id": 10080,
+    "mal-id": 10080,
+    "url": "https://anilist.co/anime/10080",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "the-world-god-only-knows-season-2",
+            "dub-id": "the-world-god-only-knows-2-dub"
+        }
+    }
+}

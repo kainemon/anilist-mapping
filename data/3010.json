@@ -1,0 +1,13 @@
+{
+    "id": 3010,
+    "mal-id": 3010,
+    "url": "https://anilist.co/anime/3010",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "the-legend-of-zorro-dub",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 125,
+    "mal-id": 125,
+    "url": "https://anilist.co/anime/125",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "futakoi",
+            "dub-id": null
+        }
+    }
+}

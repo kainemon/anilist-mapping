@@ -1,0 +1,13 @@
+{
+    "id": 650,
+    "mal-id": 650,
+    "url": "https://anilist.co/anime/650",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gunsmith-cats",
+            "dub-id": "gunsmith-cats-dub"
+        }
+    }
+}

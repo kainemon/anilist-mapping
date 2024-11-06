@@ -1,0 +1,13 @@
+{
+    "id": 763,
+    "mal-id": 763,
+    "url": "https://anilist.co/anime/763",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zoids-dub",
+            "dub-id": "zoids-1999"
+        }
+    }
+}

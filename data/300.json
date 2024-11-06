@@ -1,0 +1,13 @@
+{
+    "id": 300,
+    "mal-id": 300,
+    "url": "https://anilist.co/anime/300",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "3-x-3-eyes",
+            "dub-id": "3x3-eyes-dub"
+        }
+    }
+}

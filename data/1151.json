@@ -1,0 +1,13 @@
+{
+    "id": 1151,
+    "mal-id": 1151,
+    "url": "https://anilist.co/anime/1151",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dominion",
+            "dub-id": "dominion-dub"
+        }
+    }
+}

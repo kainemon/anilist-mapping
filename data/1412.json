@@ -1,0 +1,13 @@
+{
+    "id": 1412,
+    "mal-id": 1412,
+    "url": "https://anilist.co/anime/1412",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "lupin-iii",
+            "dub-id": "lupin-iii-dub"
+        }
+    }
+}

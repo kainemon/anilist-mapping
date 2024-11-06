@@ -1,0 +1,13 @@
+{
+    "id": 288,
+    "mal-id": 288,
+    "url": "https://anilist.co/anime/288",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "bakuten-shoot-beyblade-dub",
+            "dub-id": "beyblade"
+        }
+    }
+}

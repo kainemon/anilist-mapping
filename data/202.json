@@ -1,0 +1,13 @@
+{
+    "id": 202,
+    "mal-id": 202,
+    "url": "https://anilist.co/anime/202",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "wolfs-rain",
+            "dub-id": "wolfs-rain-dub"
+        }
+    }
+}

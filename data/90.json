@@ -1,0 +1,13 @@
+{
+    "id": 90,
+    "mal-id": 90,
+    "url": "https://anilist.co/anime/90",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gundam-wing",
+            "dub-id": "mobile-suit-gundam-wing-dub"
+        }
+    }
+}

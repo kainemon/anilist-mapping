@@ -1,0 +1,13 @@
+{
+    "id": 1303,
+    "mal-id": 1303,
+    "url": "https://anilist.co/anime/1303",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "the-animatrix",
+            "dub-id": "the-animatrix-dub"
+        }
+    }
+}

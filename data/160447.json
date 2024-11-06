@@ -1,0 +1,13 @@
+{
+    "id": 160447,
+    "mal-id": 54275,
+    "url": "https://anilist.co/anime/160447",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "temple",
+            "dub-id": "temple-dub"
+        }
+    }
+}

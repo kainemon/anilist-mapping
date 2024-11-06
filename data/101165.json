@@ -1,0 +1,13 @@
+{
+    "id": 101165,
+    "mal-id": 37349,
+    "url": "https://anilist.co/anime/101165",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "goblin-slayer",
+            "dub-id": "goblin-slayer-dub"
+        }
+    }
+}

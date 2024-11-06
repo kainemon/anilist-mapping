@@ -1,0 +1,13 @@
+{
+    "id": 857,
+    "mal-id": 857,
+    "url": "https://anilist.co/anime/857",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "air-gear",
+            "dub-id": "air-gear-dub"
+        }
+    }
+}

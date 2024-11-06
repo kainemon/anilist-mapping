@@ -1,0 +1,13 @@
+{
+    "id": 472,
+    "mal-id": 472,
+    "url": "https://anilist.co/anime/472",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "to-heart-dub",
+            "dub-id": "to-heart"
+        }
+    }
+}

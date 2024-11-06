@@ -1,0 +1,13 @@
+{
+    "id": 44,
+    "mal-id": 44,
+    "url": "https://anilist.co/anime/44",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rurouni-kenshin-meiji-kenkaku-romantan-tsuioku-hen-dub",
+            "dub-id": "rurouni-kenshin-meiji-kenkaku-romantan-tsuioku-hen"
+        }
+    }
+}

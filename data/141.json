@@ -1,0 +1,13 @@
+{
+    "id": 141,
+    "mal-id": 141,
+    "url": "https://anilist.co/anime/141",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "jinkiextend",
+            "dub-id": "jinkiextend-dub"
+        }
+    }
+}

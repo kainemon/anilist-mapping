@@ -1,0 +1,13 @@
+{
+    "id": 287,
+    "mal-id": 287,
+    "url": "https://anilist.co/anime/287",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "baki-the-grappler",
+            "dub-id": "baki-the-grappler-dub"
+        }
+    }
+}

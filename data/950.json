@@ -1,0 +1,13 @@
+{
+    "id": 950,
+    "mal-id": 950,
+    "url": "https://anilist.co/anime/950",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "street-fighter-alpha-generations",
+            "dub-id": "street-fighter-alpha-generations-dub"
+        }
+    }
+}

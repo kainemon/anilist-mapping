@@ -1,0 +1,13 @@
+{
+    "id": 2016,
+    "mal-id": 2016,
+    "url": "https://anilist.co/anime/2016",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "mermaid-forest",
+            "dub-id": null
+        }
+    }
+}

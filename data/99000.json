@@ -1,0 +1,13 @@
+{
+    "id": 99000,
+    "mal-id": 34209,
+    "url": "https://anilist.co/anime/99000",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "meiji-tokyo-renka",
+            "dub-id": "meiji-tokyo-renka-dub"
+        }
+    }
+}

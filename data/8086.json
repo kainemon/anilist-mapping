@@ -1,0 +1,13 @@
+{
+    "id": 8086,
+    "mal-id": 8086,
+    "url": "https://anilist.co/anime/8086",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "densetsu-no-yuusha-no-densetsu-dub",
+            "dub-id": "the-legend-of-the-legendary-heroes-"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 321,
+    "mal-id": 321,
+    "url": "https://anilist.co/anime/321",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "najica-dengeki-sakusen",
+            "dub-id": null
+        }
+    }
+}

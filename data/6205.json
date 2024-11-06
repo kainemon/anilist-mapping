@@ -1,0 +1,13 @@
+{
+    "id": 6205,
+    "mal-id": 6205,
+    "url": "https://anilist.co/anime/6205",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kampfer",
+            "dub-id": "kampfer-dub"
+        }
+    }
+}

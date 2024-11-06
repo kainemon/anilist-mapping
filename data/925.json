@@ -1,0 +1,13 @@
+{
+    "id": 925,
+    "mal-id": 925,
+    "url": "https://anilist.co/anime/925",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "transformers-headmasters",
+            "dub-id": "transformers-headmasters-dub"
+        }
+    }
+}

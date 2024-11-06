@@ -1,0 +1,13 @@
+{
+    "id": 1535,
+    "mal-id": 1535,
+    "url": "https://anilist.co/anime/1535",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "death-note",
+            "dub-id": "death-note-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 184,
+    "mal-id": 184,
+    "url": "https://anilist.co/anime/184",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "xenosaga",
+            "dub-id": "xenosaga-the-animation-dub"
+        }
+    }
+}

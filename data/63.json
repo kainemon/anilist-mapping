@@ -1,0 +1,13 @@
+{
+    "id": 63,
+    "mal-id": 63,
+    "url": "https://anilist.co/anime/63",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dears",
+            "dub-id": "dears-dub"
+        }
+    }
+}

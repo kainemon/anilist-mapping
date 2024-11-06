@@ -1,0 +1,13 @@
+{
+    "id": 12321,
+    "mal-id": 12321,
+    "url": "https://anilist.co/anime/12321",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "thermae-romae",
+            "dub-id": "thermae-romae-dub"
+        }
+    }
+}

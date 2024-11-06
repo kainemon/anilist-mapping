@@ -1,0 +1,13 @@
+{
+    "id": 33,
+    "mal-id": 33,
+    "url": "https://anilist.co/anime/33",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "berserk",
+            "dub-id": null
+        }
+    }
+}

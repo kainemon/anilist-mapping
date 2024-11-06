@@ -1,0 +1,13 @@
+{
+    "id": 888,
+    "mal-id": 888,
+    "url": "https://anilist.co/anime/888",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "megami-kouhosei-dub",
+            "dub-id": "pilot-candidate"
+        }
+    }
+}

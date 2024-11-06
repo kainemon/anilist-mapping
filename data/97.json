@@ -1,0 +1,13 @@
+{
+    "id": 97,
+    "mal-id": 97,
+    "url": "https://anilist.co/anime/97",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "last-exile",
+            "dub-id": null
+        }
+    }
+}

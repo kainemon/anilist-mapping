@@ -1,0 +1,13 @@
+{
+    "id": 228,
+    "mal-id": 228,
+    "url": "https://anilist.co/anime/228",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "jigoku-shoujo",
+            "dub-id": "jigoku-shoujo-dub"
+        }
+    }
+}

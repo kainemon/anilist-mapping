@@ -1,0 +1,13 @@
+{
+    "id": 154,
+    "mal-id": 154,
+    "url": "https://anilist.co/anime/154",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shaman-king",
+            "dub-id": "shaman-king-dub"
+        }
+    }
+}

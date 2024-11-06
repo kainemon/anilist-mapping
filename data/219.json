@@ -1,0 +1,13 @@
+{
+    "id": 219,
+    "mal-id": 219,
+    "url": "https://anilist.co/anime/219",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kidou-senkan-nadesico-the-prince-of-darkness-dub",
+            "dub-id": "nadesico-prince-of-darkness"
+        }
+    }
+}

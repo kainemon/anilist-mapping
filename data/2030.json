@@ -1,0 +1,13 @@
+{
+    "id": 2030,
+    "mal-id": 2030,
+    "url": "https://anilist.co/anime/2030",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "el-cazador-de-la-bruja",
+            "dub-id": "el-cazador-dub"
+        }
+    }
+}

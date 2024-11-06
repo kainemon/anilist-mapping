@@ -1,0 +1,13 @@
+{
+    "id": 181,
+    "mal-id": 181,
+    "url": "https://anilist.co/anime/181",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "vandread-season-2",
+            "dub-id": "vandread-the-second-stage-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 3000,
+    "mal-id": 3000,
+    "url": "https://anilist.co/anime/3000",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "youre-under-arrest-full-throttle",
+            "dub-id": null
+        }
+    }
+}

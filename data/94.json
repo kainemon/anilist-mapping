@@ -1,0 +1,13 @@
+{
+    "id": 94,
+    "mal-id": 94,
+    "url": "https://anilist.co/anime/94",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-gundam-seed-destiny-dub",
+            "dub-id": "mobile-suit-gundam-seed-destiny"
+        }
+    }
+}

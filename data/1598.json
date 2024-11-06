@@ -1,0 +1,13 @@
+{
+    "id": 1598,
+    "mal-id": 1598,
+    "url": "https://anilist.co/anime/1598",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "casshern-robot-hunter-dub",
+            "dub-id": "casshern-robot-hunter"
+        }
+    }
+}

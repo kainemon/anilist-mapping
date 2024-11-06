@@ -1,0 +1,13 @@
+{
+    "id": 29,
+    "mal-id": 29,
+    "url": "https://anilist.co/anime/29",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zipang",
+            "dub-id": "zipang-dub"
+        }
+    }
+}

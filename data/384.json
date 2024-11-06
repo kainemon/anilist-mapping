@@ -1,0 +1,13 @@
+{
+    "id": 384,
+    "mal-id": 384,
+    "url": "https://anilist.co/anime/384",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gantz",
+            "dub-id": "gantz-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 4224,
+    "mal-id": 4224,
+    "url": "https://anilist.co/anime/4224",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "toradora",
+            "dub-id": "toradora-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 64,
+    "mal-id": 64,
+    "url": "https://anilist.co/anime/64",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rozen-maiden-",
+            "dub-id": "rozen-maiden-dub"
+        }
+    }
+}

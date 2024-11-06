@@ -1,0 +1,13 @@
+{
+    "id": 268,
+    "mal-id": 268,
+    "url": "https://anilist.co/anime/268",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "golden-boy",
+            "dub-id": "golden-boy-dub"
+        }
+    }
+}

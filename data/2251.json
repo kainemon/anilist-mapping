@@ -1,0 +1,13 @@
+{
+    "id": 2251,
+    "mal-id": 2251,
+    "url": "https://anilist.co/anime/2251",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "baccano",
+            "dub-id": "baccano-dub"
+        }
+    }
+}

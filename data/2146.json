@@ -1,0 +1,13 @@
+{
+    "id": 2146,
+    "mal-id": 2146,
+    "url": "https://anilist.co/anime/2146",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "canary",
+            "dub-id": null
+        }
+    }
+}

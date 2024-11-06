@@ -1,0 +1,13 @@
+{
+    "id": 1075,
+    "mal-id": 1075,
+    "url": "https://anilist.co/anime/1075",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "netrun-mon-the-movie",
+            "dub-id": null
+        }
+    }
+}

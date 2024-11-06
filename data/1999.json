@@ -1,0 +1,13 @@
+{
+    "id": 1999,
+    "mal-id": 1999,
+    "url": "https://anilist.co/anime/1999",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "sakura-taisen-sumire",
+            "dub-id": null
+        }
+    }
+}

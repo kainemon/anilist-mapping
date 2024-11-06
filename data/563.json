@@ -1,0 +1,13 @@
+{
+    "id": 563,
+    "mal-id": 563,
+    "url": "https://anilist.co/anime/563",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dna-dub",
+            "dub-id": "dna2"
+        }
+    }
+}

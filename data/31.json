@@ -1,0 +1,13 @@
+{
+    "id": 31,
+    "mal-id": 31,
+    "url": "https://anilist.co/anime/31",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "evangelion-death-and-rebirth",
+            "dub-id": "neon-genesis-evangelion-death-rebirth-dub"
+        }
+    }
+}

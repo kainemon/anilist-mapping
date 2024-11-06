@@ -1,0 +1,13 @@
+{
+    "id": 97766,
+    "mal-id": 34280,
+    "url": "https://anilist.co/anime/97766",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gamers",
+            "dub-id": "gamers-dub"
+        }
+    }
+}

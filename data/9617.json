@@ -1,0 +1,13 @@
+{
+    "id": 9617,
+    "mal-id": 9617,
+    "url": "https://anilist.co/anime/9617",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "air-movie-dub",
+            "dub-id": "k-on-movie"
+        }
+    }
+}

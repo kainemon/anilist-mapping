@@ -1,0 +1,13 @@
+{
+    "id": 96,
+    "mal-id": 96,
+    "url": "https://anilist.co/anime/96",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "g-gundam",
+            "dub-id": "mobile-fighter-g-gundam-dub"
+        }
+    }
+}

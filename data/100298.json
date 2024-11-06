@@ -1,0 +1,13 @@
+{
+    "id": 100298,
+    "mal-id": 36563,
+    "url": "https://anilist.co/anime/100298",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "megalo-box",
+            "dub-id": "megalo-box-dub"
+        }
+    }
+}

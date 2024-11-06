@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "mal-id": 5,
+    "url": "https://anilist.co/anime/5",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "cowboy-bebop-tengoku-no-tobira",
+            "dub-id": "cowboy-bebop-tengoku-no-tobira-dub"
+        }
+    }
+}

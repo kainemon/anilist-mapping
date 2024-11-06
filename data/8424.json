@@ -1,0 +1,13 @@
+{
+    "id": 8424,
+    "mal-id": 8424,
+    "url": "https://anilist.co/anime/8424",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mm",
+            "dub-id": "mm-dub"
+        }
+    }
+}

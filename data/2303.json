@@ -1,0 +1,13 @@
+{
+    "id": 2303,
+    "mal-id": 2303,
+    "url": "https://anilist.co/anime/2303",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-sd-gundam-mk-i",
+            "dub-id": "mobile-suit-sd-gundam-mk-ii"
+        }
+    }
+}

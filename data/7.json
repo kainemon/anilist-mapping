@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "mal-id": 7,
+    "url": "https://anilist.co/anime/7",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "witch-hunter-robin",
+            "dub-id": "witch-hunter-robin-dub"
+        }
+    }
+}

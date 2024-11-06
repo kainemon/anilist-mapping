@@ -1,0 +1,13 @@
+{
+    "id": 130,
+    "mal-id": 130,
+    "url": "https://anilist.co/anime/130",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "saiyuki-",
+            "dub-id": "saiyuki-reload-"
+        }
+    }
+}

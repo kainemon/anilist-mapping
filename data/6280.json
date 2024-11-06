@@ -1,0 +1,13 @@
+{
+    "id": 6280,
+    "mal-id": 6280,
+    "url": "https://anilist.co/anime/6280",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "cat-shit-one",
+            "dub-id": "cat-shit-one-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 102400,
+    "mal-id": 37740,
+    "url": "https://anilist.co/anime/102400",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "whited-nighttime",
+            "dub-id": null
+        }
+    }
+}

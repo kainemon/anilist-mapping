@@ -1,0 +1,13 @@
+{
+    "id": 1735,
+    "mal-id": 1735,
+    "url": "https://anilist.co/anime/1735",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "naruto-shippuden",
+            "dub-id": "naruto-shippuuden-dub"
+        }
+    }
+}

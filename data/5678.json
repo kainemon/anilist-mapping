@@ -1,0 +1,13 @@
+{
+    "id": 5678,
+    "mal-id": 5678,
+    "url": "https://anilist.co/anime/5678",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kobato",
+            "dub-id": null
+        }
+    }
+}

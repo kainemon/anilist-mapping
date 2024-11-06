@@ -1,0 +1,13 @@
+{
+    "id": 106,
+    "mal-id": 106,
+    "url": "https://anilist.co/anime/106",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "hana-yori-dango",
+            "dub-id": null
+        }
+    }
+}

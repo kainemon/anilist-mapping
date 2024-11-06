@@ -1,0 +1,13 @@
+{
+    "id": 2253,
+    "mal-id": 2253,
+    "url": "https://anilist.co/anime/2253",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mazinger-z",
+            "dub-id": "mazinger-z-dub"
+        }
+    }
+}

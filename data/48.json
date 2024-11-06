@@ -1,0 +1,13 @@
+{
+    "id": 48,
+    "mal-id": 48,
+    "url": "https://anilist.co/anime/48",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hacksign",
+            "dub-id": "hacksign-dub"
+        }
+    }
+}

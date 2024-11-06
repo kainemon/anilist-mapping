@@ -1,0 +1,13 @@
+{
+    "id": 12031,
+    "mal-id": 12031,
+    "url": "https://anilist.co/anime/12031",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kingdom",
+            "dub-id": "kingdom-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 101123,
+    "mal-id": 37302,
+    "url": "https://anilist.co/anime/101123",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kemurikusa-tv",
+            "dub-id": null
+        }
+    }
+}

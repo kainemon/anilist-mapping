@@ -1,0 +1,13 @@
+{
+    "id": 11005,
+    "mal-id": 11005,
+    "url": "https://anilist.co/anime/11005",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "holy-knight",
+            "dub-id": "holy-knight-dub"
+        }
+    }
+}

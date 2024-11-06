@@ -1,0 +1,13 @@
+{
+    "id": 1483,
+    "mal-id": 1483,
+    "url": "https://anilist.co/anime/1483",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "master-keaton",
+            "dub-id": "master-keaton-dub"
+        }
+    }
+}

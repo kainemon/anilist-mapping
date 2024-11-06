@@ -1,0 +1,13 @@
+{
+    "id": 1998,
+    "mal-id": 1998,
+    "url": "https://anilist.co/anime/1998",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "amazing-nuts",
+            "dub-id": null
+        }
+    }
+}

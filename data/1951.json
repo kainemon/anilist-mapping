@@ -1,0 +1,13 @@
+{
+    "id": 1951,
+    "mal-id": 1951,
+    "url": "https://anilist.co/anime/1951",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "neo-tokyo-dub",
+            "dub-id": "manie-manie-meikyuu-monogatari"
+        }
+    }
+}

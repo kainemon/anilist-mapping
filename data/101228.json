@@ -1,0 +1,13 @@
+{
+    "id": 101228,
+    "mal-id": 37395,
+    "url": "https://anilist.co/anime/101228",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zoids-wild",
+            "dub-id": "zoids-wild-dub"
+        }
+    }
+}

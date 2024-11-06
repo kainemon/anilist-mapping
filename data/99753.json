@@ -1,0 +1,13 @@
+{
+    "id": 99753,
+    "mal-id": 36108,
+    "url": "https://anilist.co/anime/99753",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "takunomi",
+            "dub-id": "takunomi-dub"
+        }
+    }
+}

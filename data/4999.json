@@ -1,0 +1,13 @@
+{
+    "id": 4999,
+    "mal-id": 4999,
+    "url": "https://anilist.co/anime/4999",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "asu-no-yoichi-",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1972,
+    "mal-id": 1972,
+    "url": "https://anilist.co/anime/1972",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "meitantei-holmes-dub",
+            "dub-id": "meitantei-holmes"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1017,
+    "mal-id": 1017,
+    "url": "https://anilist.co/anime/1017",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "majutsushi-orphen",
+            "dub-id": "majutsushi-orphen-dub"
+        }
+    }
+}

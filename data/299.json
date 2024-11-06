@@ -1,0 +1,13 @@
+{
+    "id": 299,
+    "mal-id": 299,
+    "url": "https://anilist.co/anime/299",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hackliminality",
+            "dub-id": "hackliminality-dub"
+        }
+    }
+}

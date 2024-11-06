@@ -1,0 +1,13 @@
+{
+    "id": 231,
+    "mal-id": 231,
+    "url": "https://anilist.co/anime/231",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "asagiri-no-miko",
+            "dub-id": "asagiri-no-miko-dub"
+        }
+    }
+}

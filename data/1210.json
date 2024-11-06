@@ -1,0 +1,13 @@
+{
+    "id": 1210,
+    "mal-id": 1210,
+    "url": "https://anilist.co/anime/1210",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "welcome-to-the-n-h-k-dub",
+            "dub-id": "welcome-to-the-nhk"
+        }
+    }
+}

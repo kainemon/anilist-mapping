@@ -1,0 +1,13 @@
+{
+    "id": 322,
+    "mal-id": 322,
+    "url": "https://anilist.co/anime/322",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "paradise-kiss",
+            "dub-id": "paradise-kiss-dub"
+        }
+    }
+}

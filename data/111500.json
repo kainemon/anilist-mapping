@@ -1,0 +1,13 @@
+{
+    "id": 111500,
+    "mal-id": 40403,
+    "url": "https://anilist.co/anime/111500",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shin-sakura-taisen-the-animation",
+            "dub-id": "shin-sakura-taisen-the-animation-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1169,
+    "mal-id": 1169,
+    "url": "https://anilist.co/anime/1169",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "green-legend-ran-dub",
+            "dub-id": "green-legend-ran"
+        }
+    }
+}

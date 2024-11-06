@@ -1,0 +1,13 @@
+{
+    "id": 111131,
+    "mal-id": 40256,
+    "url": "https://anilist.co/anime/111131",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "cannon-busters",
+            "dub-id": "cannon-busters-dub"
+        }
+    }
+}

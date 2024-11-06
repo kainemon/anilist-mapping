@@ -1,0 +1,13 @@
+{
+    "id": 52,
+    "mal-id": 52,
+    "url": "https://anilist.co/anime/52",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "angelic-layer-dub",
+            "dub-id": "angelic-layer-"
+        }
+    }
+}

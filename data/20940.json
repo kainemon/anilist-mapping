@@ -1,0 +1,13 @@
+{
+    "id": 20940,
+    "mal-id": 24531,
+    "url": "https://anilist.co/anime/20940",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ane-log",
+            "dub-id": "ane-log-specials"
+        }
+    }
+}

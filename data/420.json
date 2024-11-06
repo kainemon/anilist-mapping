@@ -1,0 +1,13 @@
+{
+    "id": 420,
+    "mal-id": 420,
+    "url": "https://anilist.co/anime/420",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "spriggan-dub",
+            "dub-id": "spriggan"
+        }
+    }
+}

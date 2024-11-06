@@ -1,0 +1,13 @@
+{
+    "id": 6511,
+    "mal-id": 6511,
+    "url": "https://anilist.co/anime/6511",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "beast-wars",
+            "dub-id": "transformers-beast-wars-dub"
+        }
+    }
+}

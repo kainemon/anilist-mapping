@@ -1,0 +1,13 @@
+{
+    "id": 21712,
+    "mal-id": 33012,
+    "url": "https://anilist.co/anime/21712",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "island",
+            "dub-id": "island-dub"
+        }
+    }
+}

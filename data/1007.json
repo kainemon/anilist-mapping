@@ -1,0 +1,13 @@
+{
+    "id": 1007,
+    "mal-id": 1007,
+    "url": "https://anilist.co/anime/1007",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ranma-ova-dub",
+            "dub-id": "ranma-12-ova"
+        }
+    }
+}

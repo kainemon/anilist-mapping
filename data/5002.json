@@ -1,0 +1,13 @@
+{
+    "id": 5002,
+    "mal-id": 5002,
+    "url": "https://anilist.co/anime/5002",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "bari-bari-densetsu",
+            "dub-id": null
+        }
+    }
+}

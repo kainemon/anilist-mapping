@@ -1,0 +1,13 @@
+{
+    "id": 8220,
+    "mal-id": 8220,
+    "url": "https://anilist.co/anime/8220",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "baby-felix-dub",
+            "dub-id": null
+        }
+    }
+}

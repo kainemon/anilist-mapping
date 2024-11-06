@@ -1,0 +1,13 @@
+{
+    "id": 21464,
+    "mal-id": 31853,
+    "url": "https://anilist.co/anime/21464",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "biohazard-vendetta-dub",
+            "dub-id": "resident-evil-vendetta"
+        }
+    }
+}

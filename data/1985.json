@@ -1,0 +1,13 @@
+{
+    "id": 1985,
+    "mal-id": 1985,
+    "url": "https://anilist.co/anime/1985",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ufo-robo-grendizer",
+            "dub-id": "ufo-robo-grendizer-dub"
+        }
+    }
+}

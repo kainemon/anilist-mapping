@@ -1,0 +1,13 @@
+{
+    "id": 46,
+    "mal-id": 46,
+    "url": "https://anilist.co/anime/46",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rurouni-kenshin-movie-dub",
+            "dub-id": "rurouni-kenshin-ishin-shishi-no-requiem"
+        }
+    }
+}

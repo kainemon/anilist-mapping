@@ -1,0 +1,13 @@
+{
+    "id": 3800,
+    "mal-id": 3800,
+    "url": "https://anilist.co/anime/3800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "arrow-emblem-grand-prix-no-taka",
+            "dub-id": null
+        }
+    }
+}

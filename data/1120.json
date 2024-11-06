@@ -1,0 +1,13 @@
+{
+    "id": 1120,
+    "mal-id": 1120,
+    "url": "https://anilist.co/anime/1120",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-movie-5-mizu-no-miyako-no-mamorigami-latias-to-latios",
+            "dub-id": "pokemon-heroes-latias-and-latios-dub"
+        }
+    }
+}

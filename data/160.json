@@ -1,0 +1,13 @@
+{
+    "id": 160,
+    "mal-id": 160,
+    "url": "https://anilist.co/anime/160",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "now-and-then-here-and-there",
+            "dub-id": "ima-soko-ni-iru-boku-dub"
+        }
+    }
+}

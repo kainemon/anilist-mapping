@@ -1,0 +1,13 @@
+{
+    "id": 1250,
+    "mal-id": 1250,
+    "url": "https://anilist.co/anime/1250",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "elemental-gelade",
+            "dub-id": "elemental-gelade-dub"
+        }
+    }
+}

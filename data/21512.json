@@ -1,0 +1,13 @@
+{
+    "id": 21512,
+    "mal-id": 32212,
+    "url": "https://anilist.co/anime/21512",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ensemble-stars",
+            "dub-id": "ensemble-stars-dub"
+        }
+    }
+}

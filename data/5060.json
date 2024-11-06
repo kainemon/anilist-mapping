@@ -1,0 +1,13 @@
+{
+    "id": 5060,
+    "mal-id": 5060,
+    "url": "https://anilist.co/anime/5060",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hetalia-axis-powers",
+            "dub-id": "hetalia-axis-powers-dub"
+        }
+    }
+}

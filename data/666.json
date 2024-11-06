@@ -1,0 +1,13 @@
+{
+    "id": 666,
+    "mal-id": 666,
+    "url": "https://anilist.co/anime/666",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "jojo-no-kimyou-na-bouken-1993",
+            "dub-id": null
+        }
+    }
+}

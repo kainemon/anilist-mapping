@@ -1,0 +1,13 @@
+{
+    "id": 302,
+    "mal-id": 302,
+    "url": "https://anilist.co/anime/302",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "future-boy-conan",
+            "dub-id": "mirai-shounen-conan-dub"
+        }
+    }
+}

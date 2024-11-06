@@ -1,0 +1,13 @@
+{
+    "id": 678,
+    "mal-id": 678,
+    "url": "https://anilist.co/anime/678",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shadow-raiders",
+            "dub-id": "shadow-skill-"
+        }
+    }
+}

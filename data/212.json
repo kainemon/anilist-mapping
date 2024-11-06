@@ -1,0 +1,13 @@
+{
+    "id": 212,
+    "mal-id": 212,
+    "url": "https://anilist.co/anime/212",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "project-a-ko-dub",
+            "dub-id": "project-a-ko"
+        }
+    }
+}

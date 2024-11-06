@@ -1,0 +1,13 @@
+{
+    "id": 1194,
+    "mal-id": 1194,
+    "url": "https://anilist.co/anime/1194",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "coyote-ragtime-show-dub",
+            "dub-id": "coyote-ragtime-show"
+        }
+    }
+}

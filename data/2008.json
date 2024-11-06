@@ -1,0 +1,13 @@
+{
+    "id": 2008,
+    "mal-id": 2008,
+    "url": "https://anilist.co/anime/2008",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "yawara-sore-yuke-koshinuke-kiss",
+            "dub-id": null
+        }
+    }
+}

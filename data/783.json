@@ -1,0 +1,13 @@
+{
+    "id": 783,
+    "mal-id": 783,
+    "url": "https://anilist.co/anime/783",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "miami-guns",
+            "dub-id": "miami-guns-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1901,
+    "mal-id": 1901,
+    "url": "https://anilist.co/anime/1901",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "they-were-eleven-dub",
+            "dub-id": null
+        }
+    }
+}

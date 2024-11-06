@@ -1,0 +1,13 @@
+{
+    "id": 2200,
+    "mal-id": 2200,
+    "url": "https://anilist.co/anime/2200",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "muteki-choujin-zanbot-3",
+            "dub-id": null
+        }
+    }
+}

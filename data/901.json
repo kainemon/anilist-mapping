@@ -1,0 +1,13 @@
+{
+    "id": 901,
+    "mal-id": 901,
+    "url": "https://anilist.co/anime/901",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball-z-movie-08-broly-the-legendary-super-saiyan-dub",
+            "dub-id": "dragon-ball-z-movie-8-broly-the-legendary-super-saiyan"
+        }
+    }
+}

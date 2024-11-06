@@ -1,0 +1,13 @@
+{
+    "id": 178,
+    "mal-id": 178,
+    "url": "https://anilist.co/anime/178",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ultra-maniac",
+            "dub-id": "ultra-maniac-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 877,
+    "mal-id": 877,
+    "url": "https://anilist.co/anime/877",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "nana",
+            "dub-id": "nana-dub"
+        }
+    }
+}

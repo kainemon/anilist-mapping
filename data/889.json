@@ -1,0 +1,13 @@
+{
+    "id": 889,
+    "mal-id": 889,
+    "url": "https://anilist.co/anime/889",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "black-lagoon",
+            "dub-id": "black-lagoon-dub"
+        }
+    }
+}

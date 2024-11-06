@@ -1,0 +1,13 @@
+{
+    "id": 269,
+    "mal-id": 269,
+    "url": "https://anilist.co/anime/269",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "bleach",
+            "dub-id": "bleach-dub"
+        }
+    }
+}

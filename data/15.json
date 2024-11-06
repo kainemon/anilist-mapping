@@ -1,0 +1,13 @@
+{
+    "id": 15,
+    "mal-id": 15,
+    "url": "https://anilist.co/anime/15",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "eyeshield-21",
+            "dub-id": null
+        }
+    }
+}

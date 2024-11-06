@@ -1,0 +1,13 @@
+{
+    "id": 1357,
+    "mal-id": 1357,
+    "url": "https://anilist.co/anime/1357",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "new-fist-of-the-north-star-dub",
+            "dub-id": "shin-hokuto-no-ken"
+        }
+    }
+}

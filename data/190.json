@@ -1,0 +1,13 @@
+{
+    "id": 190,
+    "mal-id": 190,
+    "url": "https://anilist.co/anime/190",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "love-hina-again-dub",
+            "dub-id": "love-hina-again"
+        }
+    }
+}

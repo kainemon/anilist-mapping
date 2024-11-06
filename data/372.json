@@ -1,0 +1,13 @@
+{
+    "id": 372,
+    "mal-id": 372,
+    "url": "https://anilist.co/anime/372",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "cardcaptor-sakura-the-sealed-card",
+            "dub-id": "cardcaptor-sakura-the-movie-dub"
+        }
+    }
+}

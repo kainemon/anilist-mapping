@@ -1,0 +1,13 @@
+{
+    "id": 230,
+    "mal-id": 230,
+    "url": "https://anilist.co/anime/230",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "air-master",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 468,
+    "mal-id": 468,
+    "url": "https://anilist.co/anime/468",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ghost-in-the-shell-2-innocence-dub",
+            "dub-id": "ghost-in-the-shell-innocence"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 3306,
+    "mal-id": 3306,
+    "url": "https://anilist.co/anime/3306",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "aoki-honoo",
+            "dub-id": null
+        }
+    }
+}

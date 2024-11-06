@@ -1,0 +1,13 @@
+{
+    "id": 2890,
+    "mal-id": 2890,
+    "url": "https://anilist.co/anime/2890",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ponyo-on-a-cliff-dub",
+            "dub-id": "ponyo-on-the-cliff-by-the-sea"
+        }
+    }
+}

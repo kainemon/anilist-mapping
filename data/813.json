@@ -1,0 +1,13 @@
+{
+    "id": 813,
+    "mal-id": 813,
+    "url": "https://anilist.co/anime/813",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball-z",
+            "dub-id": "dragon-ball-z-dub"
+        }
+    }
+}

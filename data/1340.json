@@ -1,0 +1,13 @@
+{
+    "id": 1340,
+    "mal-id": 1340,
+    "url": "https://anilist.co/anime/1340",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "judge-dub",
+            "dub-id": "yami-no-shihoukan-judge"
+        }
+    }
+}

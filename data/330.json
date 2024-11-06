@@ -1,0 +1,13 @@
+{
+    "id": 330,
+    "mal-id": 330,
+    "url": "https://anilist.co/anime/330",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "midori-days",
+            "dub-id": "midori-no-hibi-dub"
+        }
+    }
+}

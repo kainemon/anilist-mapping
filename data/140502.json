@@ -1,0 +1,13 @@
+{
+    "id": 140502,
+    "mal-id": 50185,
+    "url": "https://anilist.co/anime/140502",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "rymans-club",
+            "dub-id": "rymans-club-dub"
+        }
+    }
+}

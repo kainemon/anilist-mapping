@@ -1,0 +1,13 @@
+{
+    "id": 185,
+    "mal-id": 185,
+    "url": "https://anilist.co/anime/185",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "initial-d-first-stage",
+            "dub-id": "initial-d-first-stage-dub"
+        }
+    }
+}

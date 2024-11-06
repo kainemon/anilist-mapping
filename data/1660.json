@@ -1,0 +1,13 @@
+{
+    "id": 1660,
+    "mal-id": 1660,
+    "url": "https://anilist.co/anime/1660",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kurogane-communication-dub",
+            "dub-id": "kurogane-communication"
+        }
+    }
+}

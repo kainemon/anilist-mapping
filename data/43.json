@@ -1,0 +1,13 @@
+{
+    "id": 43,
+    "mal-id": 43,
+    "url": "https://anilist.co/anime/43",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ghost-in-the-shell",
+            "dub-id": "ghost-in-the-shell-dub"
+        }
+    }
+}

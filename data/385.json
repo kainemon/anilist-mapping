@@ -1,0 +1,13 @@
+{
+    "id": 385,
+    "mal-id": 385,
+    "url": "https://anilist.co/anime/385",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gilgamesh",
+            "dub-id": "gilgamesh-dub"
+        }
+    }
+}

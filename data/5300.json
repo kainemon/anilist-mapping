@@ -1,0 +1,13 @@
+{
+    "id": 5300,
+    "mal-id": 5300,
+    "url": "https://anilist.co/anime/5300",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zoku-natsume-yuujinchou",
+            "dub-id": "zoku-natsume-yuujinchou-dub"
+        }
+    }
+}

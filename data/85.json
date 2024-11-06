@@ -1,0 +1,13 @@
+{
+    "id": 85,
+    "mal-id": 85,
+    "url": "https://anilist.co/anime/85",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-zeta-gundam-dub",
+            "dub-id": "mobile-suit-zeta-gundam"
+        }
+    }
+}

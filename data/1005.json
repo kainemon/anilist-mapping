@@ -1,0 +1,13 @@
+{
+    "id": 1005,
+    "mal-id": 1005,
+    "url": "https://anilist.co/anime/1005",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "star-ocean-ex-dub",
+            "dub-id": "star-ocean-ex"
+        }
+    }
+}

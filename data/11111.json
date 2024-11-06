@@ -1,0 +1,13 @@
+{
+    "id": 11111,
+    "mal-id": 11111,
+    "url": "https://anilist.co/anime/11111",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "another-anime",
+            "dub-id": "another-dub"
+        }
+    }
+}

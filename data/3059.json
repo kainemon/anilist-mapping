@@ -1,0 +1,13 @@
+{
+    "id": 3059,
+    "mal-id": 3059,
+    "url": "https://anilist.co/anime/3059",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ninja-robots-dub",
+            "dub-id": "ninja-senshi-tobikage"
+        }
+    }
+}

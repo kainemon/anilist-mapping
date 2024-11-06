@@ -1,0 +1,13 @@
+{
+    "id": 874,
+    "mal-id": 874,
+    "url": "https://anilist.co/anime/874",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "digimon-tamers",
+            "dub-id": "digimon-tamers-dub"
+        }
+    }
+}

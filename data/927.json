@@ -1,0 +1,13 @@
+{
+    "id": 927,
+    "mal-id": 927,
+    "url": "https://anilist.co/anime/927",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "transformers-superlink",
+            "dub-id": "transformers-superlink-dub"
+        }
+    }
+}

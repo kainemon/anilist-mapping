@@ -1,0 +1,13 @@
+{
+    "id": 2010,
+    "mal-id": 2010,
+    "url": "https://anilist.co/anime/2010",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "youre-under-arrest-no-mercy",
+            "dub-id": null
+        }
+    }
+}

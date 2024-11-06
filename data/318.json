@@ -1,0 +1,13 @@
+{
+    "id": 318,
+    "mal-id": 318,
+    "url": "https://anilist.co/anime/318",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hand-maid-may-dub",
+            "dub-id": "hand-maid-may"
+        }
+    }
+}

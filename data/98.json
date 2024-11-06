@@ -1,0 +1,13 @@
+{
+    "id": 98,
+    "mal-id": 98,
+    "url": "https://anilist.co/anime/98",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mai-hime",
+            "dub-id": "mai-hime-dub"
+        }
+    }
+}

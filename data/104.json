@@ -1,0 +1,13 @@
+{
+    "id": 104,
+    "mal-id": 104,
+    "url": "https://anilist.co/anime/104",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ayashi-no-ceres",
+            "dub-id": "ayashi-no-ceres-dub"
+        }
+    }
+}

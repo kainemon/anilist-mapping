@@ -1,0 +1,13 @@
+{
+    "id": 20031,
+    "mal-id": 20031,
+    "url": "https://anilist.co/anime/20031",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "d-frag",
+            "dub-id": "d-frag-dub"
+        }
+    }
+}

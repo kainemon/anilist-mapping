@@ -1,0 +1,13 @@
+{
+    "id": 366,
+    "mal-id": 366,
+    "url": "https://anilist.co/anime/366",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "agent-aika",
+            "dub-id": "aika-dub"
+        }
+    }
+}

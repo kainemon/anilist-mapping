@@ -1,0 +1,13 @@
+{
+    "id": 859,
+    "mal-id": 859,
+    "url": "https://anilist.co/anime/859",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "digimon-savers",
+            "dub-id": "digimon-savers-dub"
+        }
+    }
+}

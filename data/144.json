@@ -1,0 +1,13 @@
+{
+    "id": 144,
+    "mal-id": 144,
+    "url": "https://anilist.co/anime/144",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kanon",
+            "dub-id": null
+        }
+    }
+}

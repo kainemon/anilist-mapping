@@ -1,0 +1,13 @@
+{
+    "id": 135660,
+    "mal-id": 49163,
+    "url": "https://anilist.co/anime/135660",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "exception",
+            "dub-id": "exception-dub"
+        }
+    }
+}

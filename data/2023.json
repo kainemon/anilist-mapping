@@ -1,0 +1,13 @@
+{
+    "id": 2023,
+    "mal-id": 2023,
+    "url": "https://anilist.co/anime/2023",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "bakuen-campus-guardress",
+            "dub-id": null
+        }
+    }
+}

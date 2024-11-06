@@ -1,0 +1,13 @@
+{
+    "id": 1064,
+    "mal-id": 1064,
+    "url": "https://anilist.co/anime/1064",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mazinkaiser",
+            "dub-id": "mazinkaiser-dub"
+        }
+    }
+}

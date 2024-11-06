@@ -1,0 +1,13 @@
+{
+    "id": 1346,
+    "mal-id": 1346,
+    "url": "https://anilist.co/anime/1346",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "a-d-police-dub",
+            "dub-id": "ad-police"
+        }
+    }
+}

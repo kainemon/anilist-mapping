@@ -1,0 +1,13 @@
+{
+    "id": 26,
+    "mal-id": 26,
+    "url": "https://anilist.co/anime/26",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "texhnolyze-",
+            "dub-id": "texhnolyze-dub"
+        }
+    }
+}

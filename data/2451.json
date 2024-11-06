@@ -1,0 +1,13 @@
+{
+    "id": 2451,
+    "mal-id": 2451,
+    "url": "https://anilist.co/anime/2451",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "space-cobra",
+            "dub-id": "space-adventure-cobra"
+        }
+    }
+}

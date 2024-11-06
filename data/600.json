@@ -1,0 +1,13 @@
+{
+    "id": 600,
+    "mal-id": 600,
+    "url": "https://anilist.co/anime/600",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "the-legend-of-zelda-",
+            "dub-id": "legend-of-duo"
+        }
+    }
+}

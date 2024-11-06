@@ -1,0 +1,13 @@
+{
+    "id": 208,
+    "mal-id": 208,
+    "url": "https://anilist.co/anime/208",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "read-or-die",
+            "dub-id": "read-or-die-ova"
+        }
+    }
+}

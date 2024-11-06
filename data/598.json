@@ -1,0 +1,13 @@
+{
+    "id": 598,
+    "mal-id": 598,
+    "url": "https://anilist.co/anime/598",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "android-kikaider-dub",
+            "dub-id": "jinzou-ningen-kikaider-the-animation"
+        }
+    }
+}

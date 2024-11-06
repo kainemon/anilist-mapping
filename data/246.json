@@ -1,0 +1,13 @@
+{
+    "id": 246,
+    "mal-id": 246,
+    "url": "https://anilist.co/anime/246",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "groove-adventure-rave-dub",
+            "dub-id": "rave-master"
+        }
+    }
+}

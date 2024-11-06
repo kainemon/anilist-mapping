@@ -1,0 +1,13 @@
+{
+    "id": 1185,
+    "mal-id": 1185,
+    "url": "https://anilist.co/anime/1185",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "battle-athletes-dub",
+            "dub-id": "battle-athletess-daiundoukai"
+        }
+    }
+}

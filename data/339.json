@@ -1,0 +1,13 @@
+{
+    "id": 339,
+    "mal-id": 339,
+    "url": "https://anilist.co/anime/339",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "serial-experiments-lain",
+            "dub-id": "serial-experiments-lain-dub"
+        }
+    }
+}

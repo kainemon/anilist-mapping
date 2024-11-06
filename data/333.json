@@ -1,0 +1,13 @@
+{
+    "id": 333,
+    "mal-id": 333,
+    "url": "https://anilist.co/anime/333",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "mama-wa-shougaku-4-nensei",
+            "dub-id": null
+        }
+    }
+}

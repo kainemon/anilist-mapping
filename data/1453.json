@@ -1,0 +1,13 @@
+{
+    "id": 1453,
+    "mal-id": 1453,
+    "url": "https://anilist.co/anime/1453",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "maison-ikkoku",
+            "dub-id": "maison-ikkoku-dub"
+        }
+    }
+}

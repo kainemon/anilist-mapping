@@ -1,0 +1,13 @@
+{
+    "id": 6800,
+    "mal-id": 6800,
+    "url": "https://anilist.co/anime/6800",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "transformers-scramble-city",
+            "dub-id": null
+        }
+    }
+}

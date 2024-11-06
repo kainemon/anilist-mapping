@@ -1,0 +1,13 @@
+{
+    "id": 301,
+    "mal-id": 301,
+    "url": "https://anilist.co/anime/301",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "cinderella-boy",
+            "dub-id": null
+        }
+    }
+}

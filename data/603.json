@@ -1,0 +1,13 @@
+{
+    "id": 603,
+    "mal-id": 603,
+    "url": "https://anilist.co/anime/603",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pretty-cure",
+            "dub-id": "futari-wa-precure-dub"
+        }
+    }
+}

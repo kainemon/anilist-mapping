@@ -1,0 +1,13 @@
+{
+    "id": 1103,
+    "mal-id": 1103,
+    "url": "https://anilist.co/anime/1103",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "godannar",
+            "dub-id": "shinkon-gattai-godannar"
+        }
+    }
+}

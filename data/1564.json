@@ -1,0 +1,13 @@
+{
+    "id": 1564,
+    "mal-id": 1564,
+    "url": "https://anilist.co/anime/1564",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-advanced-generation-dub",
+            "dub-id": "pokemon-season-06-advanced"
+        }
+    }
+}

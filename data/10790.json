@@ -1,0 +1,13 @@
+{
+    "id": 10790,
+    "mal-id": 10790,
+    "url": "https://anilist.co/anime/10790",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "is-this-a-zombie-of-the-dead-dub",
+            "dub-id": "kore-wa-zombie-desuka-of-the-dead"
+        }
+    }
+}

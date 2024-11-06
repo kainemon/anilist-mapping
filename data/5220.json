@@ -1,0 +1,13 @@
+{
+    "id": 5220,
+    "mal-id": 5220,
+    "url": "https://anilist.co/anime/5220",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shangri-la-",
+            "dub-id": "shangri-la-dub"
+        }
+    }
+}

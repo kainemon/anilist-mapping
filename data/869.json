@@ -1,0 +1,13 @@
+{
+    "id": 869,
+    "mal-id": 869,
+    "url": "https://anilist.co/anime/869",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "slayers-return-dub",
+            "dub-id": "slayers-return"
+        }
+    }
+}

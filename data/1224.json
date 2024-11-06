@@ -1,0 +1,13 @@
+{
+    "id": 1224,
+    "mal-id": 1224,
+    "url": "https://anilist.co/anime/1224",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "aquarian-age-sign-for-evolution-dub",
+            "dub-id": "aquarian-age"
+        }
+    }
+}

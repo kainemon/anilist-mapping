@@ -1,0 +1,13 @@
+{
+    "id": 707,
+    "mal-id": 707,
+    "url": "https://anilist.co/anime/707",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "comic-party-specials",
+            "dub-id": null
+        }
+    }
+}

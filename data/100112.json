@@ -1,0 +1,13 @@
+{
+    "id": 100112,
+    "mal-id": 36407,
+    "url": "https://anilist.co/anime/100112",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kenja-no-mago",
+            "dub-id": "kenja-no-mago-dub"
+        }
+    }
+}

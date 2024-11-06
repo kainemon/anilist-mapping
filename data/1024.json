@@ -1,0 +1,13 @@
+{
+    "id": 1024,
+    "mal-id": 1024,
+    "url": "https://anilist.co/anime/1024",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "weiss-kreuz-ova",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 74,
+    "mal-id": 74,
+    "url": "https://anilist.co/anime/74",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "gakuen-alice",
+            "dub-id": null
+        }
+    }
+}

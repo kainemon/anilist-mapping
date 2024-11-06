@@ -1,0 +1,13 @@
+{
+    "id": 483,
+    "mal-id": 483,
+    "url": "https://anilist.co/anime/483",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "phantom-memory-kurau",
+            "dub-id": "kurau-phantom-memory-dub"
+        }
+    }
+}

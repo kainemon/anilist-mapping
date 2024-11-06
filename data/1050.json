@@ -1,0 +1,13 @@
+{
+    "id": 1050,
+    "mal-id": 1050,
+    "url": "https://anilist.co/anime/1050",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "bobobo-bo-bo-bobo",
+            "dub-id": "bobobo-bo-bo-bobo-dub"
+        }
+    }
+}

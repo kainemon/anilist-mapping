@@ -1,0 +1,13 @@
+{
+    "id": 788,
+    "mal-id": 788,
+    "url": "https://anilist.co/anime/788",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "eiken",
+            "dub-id": "eiken-dub"
+        }
+    }
+}

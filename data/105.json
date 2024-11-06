@@ -1,0 +1,13 @@
+{
+    "id": 105,
+    "mal-id": 105,
+    "url": "https://anilist.co/anime/105",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "boys-be-dub",
+            "dub-id": "boys-be"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1746,
+    "mal-id": 1746,
+    "url": "https://anilist.co/anime/1746",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zoids-fuzors-dub",
+            "dub-id": "zoids-fuzors"
+        }
+    }
+}

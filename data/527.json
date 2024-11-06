@@ -1,0 +1,13 @@
+{
+    "id": 527,
+    "mal-id": 527,
+    "url": "https://anilist.co/anime/527",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-dub",
+            "dub-id": "pokemon-4ever-dub"
+        }
+    }
+}

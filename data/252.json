@@ -1,0 +1,13 @@
+{
+    "id": 252,
+    "mal-id": 252,
+    "url": "https://anilist.co/anime/252",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "madlax",
+            "dub-id": "madlax-dub"
+        }
+    }
+}

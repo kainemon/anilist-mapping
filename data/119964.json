@@ -1,0 +1,13 @@
+{
+    "id": 119964,
+    "mal-id": 42161,
+    "url": "https://anilist.co/anime/119964",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "poketoon",
+            "dub-id": "poketoon-dub"
+        }
+    }
+}

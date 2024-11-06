@@ -1,0 +1,13 @@
+{
+    "id": 1455,
+    "mal-id": 1455,
+    "url": "https://anilist.co/anime/1455",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ninja-resurrection",
+            "dub-id": "makai-tenshou"
+        }
+    }
+}

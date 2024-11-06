@@ -1,0 +1,13 @@
+{
+    "id": 99425,
+    "mal-id": 35848,
+    "url": "https://anilist.co/anime/99425",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "promare",
+            "dub-id": "promare-dub"
+        }
+    }
+}

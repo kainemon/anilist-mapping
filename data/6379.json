@@ -1,0 +1,13 @@
+{
+    "id": 6379,
+    "mal-id": 6379,
+    "url": "https://anilist.co/anime/6379",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kyou-no-5-no-2-tv-takarabako",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 123752,
+    "mal-id": 42808,
+    "url": "https://anilist.co/anime/123752",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shenmue-the-animation",
+            "dub-id": "shenmue-the-animation-dub"
+        }
+    }
+}

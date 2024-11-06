@@ -1,0 +1,13 @@
+{
+    "id": 1235,
+    "mal-id": 1235,
+    "url": "https://anilist.co/anime/1235",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "is-pure-bonus",
+            "dub-id": null
+        }
+    }
+}

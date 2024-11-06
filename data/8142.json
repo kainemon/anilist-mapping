@@ -1,0 +1,13 @@
+{
+    "id": 8142,
+    "mal-id": 8142,
+    "url": "https://anilist.co/anime/8142",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "colorful-movie",
+            "dub-id": "colorful-movie-dub"
+        }
+    }
+}

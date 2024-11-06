@@ -1,0 +1,13 @@
+{
+    "id": 782,
+    "mal-id": 782,
+    "url": "https://anilist.co/anime/782",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gasaraki",
+            "dub-id": "gasaraki-dub"
+        }
+    }
+}

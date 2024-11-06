@@ -1,0 +1,13 @@
+{
+    "id": 79,
+    "mal-id": 79,
+    "url": "https://anilist.co/anime/79",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shuffle",
+            "dub-id": "shuffle-dub"
+        }
+    }
+}

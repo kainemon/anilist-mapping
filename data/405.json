@@ -1,0 +1,13 @@
+{
+    "id": 405,
+    "mal-id": 405,
+    "url": "https://anilist.co/anime/405",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "blood-the-last-vampire-movie",
+            "dub-id": "blood-the-last-vampire-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 193,
+    "mal-id": 193,
+    "url": "https://anilist.co/anime/193",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "maburaho",
+            "dub-id": "maburaho-dub"
+        }
+    }
+}

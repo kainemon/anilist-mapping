@@ -1,0 +1,13 @@
+{
+    "id": 21049,
+    "mal-id": 30015,
+    "url": "https://anilist.co/anime/21049",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "relife",
+            "dub-id": "relife-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 69,
+    "mal-id": 69,
+    "url": "https://anilist.co/anime/69",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "cluster-edge",
+            "dub-id": null
+        }
+    }
+}

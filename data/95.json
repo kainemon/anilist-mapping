@@ -1,0 +1,13 @@
+{
+    "id": 95,
+    "mal-id": 95,
+    "url": "https://anilist.co/anime/95",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "turn-a-gundam",
+            "dub-id": null
+        }
+    }
+}

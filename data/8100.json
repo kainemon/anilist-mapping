@@ -1,0 +1,13 @@
+{
+    "id": 8100,
+    "mal-id": 8100,
+    "url": "https://anilist.co/anime/8100",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mardock-scramble-the-first-compression",
+            "dub-id": "mardock-scramble-the-first-compression-dub"
+        }
+    }
+}

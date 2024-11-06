@@ -1,0 +1,13 @@
+{
+    "id": 456,
+    "mal-id": 456,
+    "url": "https://anilist.co/anime/456",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "best-student-council-dub",
+            "dub-id": "gokujou-seitokai"
+        }
+    }
+}

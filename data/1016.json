@@ -1,0 +1,13 @@
+{
+    "id": 1016,
+    "mal-id": 1016,
+    "url": "https://anilist.co/anime/1016",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "battle-angel-alita",
+            "dub-id": "gunnm-dub"
+        }
+    }
+}

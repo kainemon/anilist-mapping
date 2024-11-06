@@ -1,0 +1,13 @@
+{
+    "id": 2018,
+    "mal-id": 2018,
+    "url": "https://anilist.co/anime/2018",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "warau-hyouteki",
+            "dub-id": null
+        }
+    }
+}

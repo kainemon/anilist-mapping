@@ -1,0 +1,13 @@
+{
+    "id": 200,
+    "mal-id": 200,
+    "url": "https://anilist.co/anime/200",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "cheeky-angel",
+            "dub-id": null
+        }
+    }
+}

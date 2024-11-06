@@ -1,0 +1,13 @@
+{
+    "id": 145,
+    "mal-id": 145,
+    "url": "https://anilist.co/anime/145",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kare-kano",
+            "dub-id": null
+        }
+    }
+}

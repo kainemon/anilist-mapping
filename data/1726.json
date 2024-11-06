@@ -1,0 +1,13 @@
+{
+    "id": 1726,
+    "mal-id": 1726,
+    "url": "https://anilist.co/anime/1726",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "devil-may-cry",
+            "dub-id": "devil-may-cry-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1666,
+    "mal-id": 1666,
+    "url": "https://anilist.co/anime/1666",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "babel-nisei-dub",
+            "dub-id": "babel-nisei"
+        }
+    }
+}

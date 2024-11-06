@@ -1,0 +1,13 @@
+{
+    "id": 97634,
+    "mal-id": 34034,
+    "url": "https://anilist.co/anime/97634",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-sun-and-moon-dub",
+            "dub-id": "pokemon-sun-moon"
+        }
+    }
+}

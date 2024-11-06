@@ -1,0 +1,13 @@
+{
+    "id": 1001,
+    "mal-id": 1001,
+    "url": "https://anilist.co/anime/1001",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tide-line-blue-kyoudai",
+            "dub-id": "tide-line-blue-kyoudai-dub"
+        }
+    }
+}

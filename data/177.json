@@ -1,0 +1,13 @@
+{
+    "id": 177,
+    "mal-id": 177,
+    "url": "https://anilist.co/anime/177",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tsubasa-chronicle-dub",
+            "dub-id": "tsubasa-reservoir-chronicle"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 2462,
+    "mal-id": 2462,
+    "url": "https://anilist.co/anime/2462",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "toushinden-dub",
+            "dub-id": "toushinden"
+        }
+    }
+}

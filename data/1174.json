@@ -1,0 +1,13 @@
+{
+    "id": 1174,
+    "mal-id": 1174,
+    "url": "https://anilist.co/anime/1174",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "munto-dub",
+            "dub-id": "munto"
+        }
+    }
+}

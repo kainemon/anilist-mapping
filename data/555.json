@@ -1,0 +1,13 @@
+{
+    "id": 555,
+    "mal-id": 555,
+    "url": "https://anilist.co/anime/555",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "steel-angel-kurumi-2-dub",
+            "dub-id": null
+        }
+    }
+}

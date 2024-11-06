@@ -1,0 +1,13 @@
+{
+    "id": 222,
+    "mal-id": 222,
+    "url": "https://anilist.co/anime/222",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mezzo-dsa-dub",
+            "dub-id": "mezzo-dsa"
+        }
+    }
+}

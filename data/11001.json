@@ -1,0 +1,13 @@
+{
+    "id": 11001,
+    "mal-id": 11001,
+    "url": "https://anilist.co/anime/11001",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "library-war-the-wings-of-revolution",
+            "dub-id": "toshokan-sensou-kakumei-no-tsubasa"
+        }
+    }
+}

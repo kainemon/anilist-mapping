@@ -1,0 +1,13 @@
+{
+    "id": 530,
+    "mal-id": 530,
+    "url": "https://anilist.co/anime/530",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "sailor-moon-",
+            "dub-id": "sailor-moon-dub"
+        }
+    }
+}

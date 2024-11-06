@@ -1,0 +1,13 @@
+{
+    "id": 5200,
+    "mal-id": 5200,
+    "url": "https://anilist.co/anime/5200",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "offside-tv",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 105246,
+    "mal-id": 38670,
+    "url": "https://anilist.co/anime/105246",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "actors-songs-connection-dub",
+            "dub-id": "actors-songs-connection"
+        }
+    }
+}

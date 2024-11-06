@@ -1,0 +1,13 @@
+{
+    "id": 16,
+    "mal-id": 16,
+    "url": "https://anilist.co/anime/16",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "honey-and-clover",
+            "dub-id": "honey-and-clover-dub"
+        }
+    }
+}

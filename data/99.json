@@ -1,0 +1,13 @@
+{
+    "id": 99,
+    "mal-id": 99,
+    "url": "https://anilist.co/anime/99",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mai-otome",
+            "dub-id": "mai-otome-dub"
+        }
+    }
+}

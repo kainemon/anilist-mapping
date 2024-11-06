@@ -1,0 +1,13 @@
+{
+    "id": 902,
+    "mal-id": 902,
+    "url": "https://anilist.co/anime/902",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball-z-movie-09-bojack-unbound-dub",
+            "dub-id": "dragon-ball-z-movie-9-bojack-unbound"
+        }
+    }
+}

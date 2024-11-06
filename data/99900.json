@@ -1,0 +1,13 @@
+{
+    "id": 99900,
+    "mal-id": 41361,
+    "url": "https://anilist.co/anime/99900",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "eiga-daisuki-pompo-san-movie",
+            "dub-id": "eiga-daisuki-pompo-san-dub"
+        }
+    }
+}

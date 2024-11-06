@@ -1,0 +1,13 @@
+{
+    "id": 171,
+    "mal-id": 171,
+    "url": "https://anilist.co/anime/171",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "strange-dawn-dub",
+            "dub-id": "strange-dawn"
+        }
+    }
+}

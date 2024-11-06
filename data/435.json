@@ -1,0 +1,13 @@
+{
+    "id": 435,
+    "mal-id": 435,
+    "url": "https://anilist.co/anime/435",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "magic-knight-rayearth",
+            "dub-id": "magic-knight-rayearth-2"
+        }
+    }
+}

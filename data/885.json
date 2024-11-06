@@ -1,0 +1,13 @@
+{
+    "id": 885,
+    "mal-id": 885,
+    "url": "https://anilist.co/anime/885",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "angels-egg",
+            "dub-id": "tenshi-no-tamago"
+        }
+    }
+}

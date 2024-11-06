@@ -1,0 +1,13 @@
+{
+    "id": 123785,
+    "mal-id": 42825,
+    "url": "https://anilist.co/anime/123785",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "project-scard-praeter-no-kizu",
+            "dub-id": "project-scard-praeter-no-kizu-dub"
+        }
+    }
+}

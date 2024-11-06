@@ -1,0 +1,13 @@
+{
+    "id": 24,
+    "mal-id": 24,
+    "url": "https://anilist.co/anime/24",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "school-rumble",
+            "dub-id": "school-rumble-dub"
+        }
+    }
+}

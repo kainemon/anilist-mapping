@@ -1,0 +1,13 @@
+{
+    "id": 10030,
+    "mal-id": 10030,
+    "url": "https://anilist.co/anime/10030",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "baki-2nd-season-dub",
+            "dub-id": "bakuman-season-2"
+        }
+    }
+}

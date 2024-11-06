@@ -1,0 +1,13 @@
+{
+    "id": 8101,
+    "mal-id": 8101,
+    "url": "https://anilist.co/anime/8101",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hen-zemi",
+            "dub-id": "hen-zemi-ova"
+        }
+    }
+}

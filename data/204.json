@@ -1,0 +1,13 @@
+{
+    "id": 204,
+    "mal-id": 204,
+    "url": "https://anilist.co/anime/204",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "yumeria",
+            "dub-id": "yumeria-dub"
+        }
+    }
+}

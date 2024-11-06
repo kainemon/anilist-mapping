@@ -1,0 +1,13 @@
+{
+    "id": 285,
+    "mal-id": 285,
+    "url": "https://anilist.co/anime/285",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "argento-soma",
+            "dub-id": "argento-soma-dub"
+        }
+    }
+}

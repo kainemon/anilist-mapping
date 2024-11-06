@@ -1,0 +1,13 @@
+{
+    "id": 1148,
+    "mal-id": 1148,
+    "url": "https://anilist.co/anime/1148",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "doomed-megalopolis-dub",
+            "dub-id": "teito-monogatari"
+        }
+    }
+}

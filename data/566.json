@@ -1,0 +1,13 @@
+{
+    "id": 566,
+    "mal-id": 566,
+    "url": "https://anilist.co/anime/566",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tetsuwan-birdy",
+            "dub-id": "tetsuwan-birdy-dub"
+        }
+    }
+}

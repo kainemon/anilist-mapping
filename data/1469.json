@@ -1,0 +1,13 @@
+{
+    "id": 1469,
+    "mal-id": 1469,
+    "url": "https://anilist.co/anime/1469",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "monster-rancher",
+            "dub-id": "monster-rancher-dub"
+        }
+    }
+}

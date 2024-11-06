@@ -1,0 +1,13 @@
+{
+    "id": 1137,
+    "mal-id": 1137,
+    "url": "https://anilist.co/anime/1137",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shinzo",
+            "dub-id": "shinzo-dub"
+        }
+    }
+}

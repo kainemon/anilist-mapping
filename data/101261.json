@@ -1,0 +1,13 @@
+{
+    "id": 101261,
+    "mal-id": 37426,
+    "url": "https://anilist.co/anime/101261",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "sarazanmai",
+            "dub-id": "sarazanmai-dub"
+        }
+    }
+}

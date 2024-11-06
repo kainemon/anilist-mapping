@@ -1,0 +1,13 @@
+{
+    "id": 2017,
+    "mal-id": 2017,
+    "url": "https://anilist.co/anime/2017",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "ningyo-no-kizu",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 53,
+    "mal-id": 53,
+    "url": "https://anilist.co/anime/53",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ai-yori-aoshi",
+            "dub-id": "ai-yori-aoshi-dub"
+        }
+    }
+}

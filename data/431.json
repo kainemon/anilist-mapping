@@ -1,0 +1,13 @@
+{
+    "id": 431,
+    "mal-id": 431,
+    "url": "https://anilist.co/anime/431",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "howls-moving-castle",
+            "dub-id": "howls-moving-castle-dub"
+        }
+    }
+}

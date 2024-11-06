@@ -1,0 +1,13 @@
+{
+    "id": 121,
+    "mal-id": 121,
+    "url": "https://anilist.co/anime/121",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fullmetal-alchemist",
+            "dub-id": "fullmetal-alchemist-dub"
+        }
+    }
+}

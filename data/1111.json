@@ -1,0 +1,13 @@
+{
+    "id": 1111,
+    "mal-id": 1111,
+    "url": "https://anilist.co/anime/1111",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "vandread-turbulence",
+            "dub-id": null
+        }
+    }
+}

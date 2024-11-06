@@ -1,0 +1,13 @@
+{
+    "id": 10507,
+    "mal-id": 10507,
+    "url": "https://anilist.co/anime/10507",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "inazuma-eleven-dub",
+            "dub-id": "inazuma-eleven-go"
+        }
+    }
+}

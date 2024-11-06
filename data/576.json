@@ -1,0 +1,13 @@
+{
+    "id": 576,
+    "mal-id": 576,
+    "url": "https://anilist.co/anime/576",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "magikano",
+            "dub-id": "magikano-dub"
+        }
+    }
+}

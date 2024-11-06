@@ -1,0 +1,13 @@
+{
+    "id": 1299,
+    "mal-id": 1299,
+    "url": "https://anilist.co/anime/1299",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "flag",
+            "dub-id": "flag-dub"
+        }
+    }
+}

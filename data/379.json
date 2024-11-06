@@ -1,0 +1,13 @@
+{
+    "id": 379,
+    "mal-id": 379,
+    "url": "https://anilist.co/anime/379",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "excel-saga-dub",
+            "dub-id": "excel-saga"
+        }
+    }
+}

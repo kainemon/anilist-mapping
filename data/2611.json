@@ -1,0 +1,13 @@
+{
+    "id": 2611,
+    "mal-id": 2611,
+    "url": "https://anilist.co/anime/2611",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "panda-go-panda",
+            "dub-id": "panda-kopanda-dub"
+        }
+    }
+}

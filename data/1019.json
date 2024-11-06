@@ -1,0 +1,13 @@
+{
+    "id": 1019,
+    "mal-id": 1019,
+    "url": "https://anilist.co/anime/1019",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mirage-of-blaze",
+            "dub-id": "mirage-of-blaze-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 4052,
+    "mal-id": 4052,
+    "url": "https://anilist.co/anime/4052",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "medabots-spirits-dub",
+            "dub-id": "medarot-damashii"
+        }
+    }
+}

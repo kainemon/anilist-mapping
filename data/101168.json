@@ -1,0 +1,13 @@
+{
+    "id": 101168,
+    "mal-id": 37345,
+    "url": "https://anilist.co/anime/101168",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "plunderer",
+            "dub-id": "plunderer-dub"
+        }
+    }
+}

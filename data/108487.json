@@ -1,0 +1,13 @@
+{
+    "id": 108487,
+    "mal-id": 39545,
+    "url": "https://anilist.co/anime/108487",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fragtime",
+            "dub-id": "fragtime-dub"
+        }
+    }
+}

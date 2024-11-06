@@ -1,0 +1,13 @@
+{
+    "id": 106240,
+    "mal-id": 38816,
+    "url": "https://anilist.co/anime/106240",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "hello-world",
+            "dub-id": null
+        }
+    }
+}

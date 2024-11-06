@@ -1,0 +1,13 @@
+{
+    "id": 564,
+    "mal-id": 564,
+    "url": "https://anilist.co/anime/564",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "puni-punipoemii-dub",
+            "dub-id": "puni-puni-poemy"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 430,
+    "mal-id": 430,
+    "url": "https://anilist.co/anime/430",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "fullmetal-alchemist-the-conqueror-of-shamballa",
+            "dub-id": "fullmetal-alchemist-the-conqueror-of-shamballa-dub"
+        }
+    }
+}

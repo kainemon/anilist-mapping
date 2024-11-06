@@ -1,0 +1,13 @@
+{
+    "id": 58,
+    "mal-id": 58,
+    "url": "https://anilist.co/anime/58",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "blue-gender",
+            "dub-id": "blue-gender-dub"
+        }
+    }
+}

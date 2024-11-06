@@ -1,0 +1,13 @@
+{
+    "id": 1021,
+    "mal-id": 1021,
+    "url": "https://anilist.co/anime/1021",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kaikan-phrase",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1136,
+    "mal-id": 1136,
+    "url": "https://anilist.co/anime/1136",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "betterman",
+            "dub-id": "betterman-dub"
+        }
+    }
+}

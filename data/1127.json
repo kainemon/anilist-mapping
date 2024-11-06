@@ -1,0 +1,13 @@
+{
+    "id": 1127,
+    "mal-id": 1127,
+    "url": "https://anilist.co/anime/1127",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ufo-princess-valkyrie-dub",
+            "dub-id": "ufo-ultramaiden-valkyrie"
+        }
+    }
+}

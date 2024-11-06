@@ -1,0 +1,13 @@
+{
+    "id": 10033,
+    "mal-id": 10033,
+    "url": "https://anilist.co/anime/10033",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "toriko",
+            "dub-id": "toriko-dub"
+        }
+    }
+}

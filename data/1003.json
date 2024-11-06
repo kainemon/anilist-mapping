@@ -1,0 +1,13 @@
+{
+    "id": 1003,
+    "mal-id": 1003,
+    "url": "https://anilist.co/anime/1003",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "aa-megami-sama-tv-specials-dub",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 100240,
+    "mal-id": 36511,
+    "url": "https://anilist.co/anime/100240",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tokyo-ghoulre",
+            "dub-id": "tokyo-ghoulre-dub"
+        }
+    }
+}

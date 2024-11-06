@@ -1,0 +1,13 @@
+{
+    "id": 19,
+    "mal-id": 19,
+    "url": "https://anilist.co/anime/19",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "monster",
+            "dub-id": "monster-dub"
+        }
+    }
+}

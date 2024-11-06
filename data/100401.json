@@ -1,0 +1,13 @@
+{
+    "id": 100401,
+    "mal-id": 36652,
+    "url": "https://anilist.co/anime/100401",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "piano-no-mori-tv",
+            "dub-id": null
+        }
+    }
+}

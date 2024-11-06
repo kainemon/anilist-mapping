@@ -1,0 +1,13 @@
+{
+    "id": 10490,
+    "mal-id": 10490,
+    "url": "https://anilist.co/anime/10490",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "blood-c",
+            "dub-id": "blood-dub"
+        }
+    }
+}

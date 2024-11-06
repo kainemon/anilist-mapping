@@ -1,0 +1,13 @@
+{
+    "id": 140002,
+    "mal-id": 50012,
+    "url": "https://anilist.co/anime/140002",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "meitantei-conan-zero-no-tea-time",
+            "dub-id": "meitantei-conan-zero-no-tea-time-dub"
+        }
+    }
+}

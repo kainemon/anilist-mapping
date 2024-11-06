@@ -1,0 +1,13 @@
+{
+    "id": 900,
+    "mal-id": 900,
+    "url": "https://anilist.co/anime/900",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball-z-movie-07-super-android-13-dub",
+            "dub-id": "dragon-ball-z-movie-7-super-android-13"
+        }
+    }
+}

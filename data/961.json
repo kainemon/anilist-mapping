@@ -1,0 +1,13 @@
+{
+    "id": 961,
+    "mal-id": 961,
+    "url": "https://anilist.co/anime/961",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "virtua-fighter-dub",
+            "dub-id": "virtua-fighter"
+        }
+    }
+}

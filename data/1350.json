@@ -1,0 +1,13 @@
+{
+    "id": 1350,
+    "mal-id": 1350,
+    "url": "https://anilist.co/anime/1350",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "parasite-dolls",
+            "dub-id": "parasite-dolls-dub"
+        }
+    }
+}

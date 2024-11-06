@@ -1,0 +1,13 @@
+{
+    "id": 665,
+    "mal-id": 665,
+    "url": "https://anilist.co/anime/665",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "jojos-bizarre-adventure-2000-dub",
+            "dub-id": "jojo-no-kimyou-na-bouken-adventure-2000"
+        }
+    }
+}

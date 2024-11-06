@@ -1,0 +1,13 @@
+{
+    "id": 2363,
+    "mal-id": 2363,
+    "url": "https://anilist.co/anime/2363",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-chronicles-dub",
+            "dub-id": "pokemon-side-stories"
+        }
+    }
+}

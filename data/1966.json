@@ -1,0 +1,13 @@
+{
+    "id": 1966,
+    "mal-id": 1966,
+    "url": "https://anilist.co/anime/1966",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ankoku-shinwa",
+            "dub-id": "ankoku-shinwa-dub"
+        }
+    }
+}

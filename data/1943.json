@@ -1,0 +1,13 @@
+{
+    "id": 1943,
+    "mal-id": 1943,
+    "url": "https://anilist.co/anime/1943",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "paprika",
+            "dub-id": "paprika-dub"
+        }
+    }
+}

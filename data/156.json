@@ -1,0 +1,13 @@
+{
+    "id": 156,
+    "mal-id": 156,
+    "url": "https://anilist.co/anime/156",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "x-tv",
+            "dub-id": null
+        }
+    }
+}

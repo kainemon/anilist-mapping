@@ -1,0 +1,13 @@
+{
+    "id": 166,
+    "mal-id": 166,
+    "url": "https://anilist.co/anime/166",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "samurai-7",
+            "dub-id": "samurai-7-dub"
+        }
+    }
+}

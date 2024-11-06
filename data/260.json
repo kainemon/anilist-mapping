@@ -1,0 +1,13 @@
+{
+    "id": 260,
+    "mal-id": 260,
+    "url": "https://anilist.co/anime/260",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "happy-lesson",
+            "dub-id": "happy-lesson-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 56,
+    "mal-id": 56,
+    "url": "https://anilist.co/anime/56",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "avenger-dub",
+            "dub-id": "avenger"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 2000,
+    "mal-id": 2000,
+    "url": "https://anilist.co/anime/2000",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "roujin-z-dub",
+            "dub-id": null
+        }
+    }
+}

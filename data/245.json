@@ -1,0 +1,13 @@
+{
+    "id": 245,
+    "mal-id": 245,
+    "url": "https://anilist.co/anime/245",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "great-teacher-onizuka",
+            "dub-id": "great-teacher-onizuka-dub"
+        }
+    }
+}

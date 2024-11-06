@@ -1,0 +1,13 @@
+{
+    "id": 18001,
+    "mal-id": 18001,
+    "url": "https://anilist.co/anime/18001",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "freezing-vibration",
+            "dub-id": "freezing-vibration-dub"
+        }
+    }
+}

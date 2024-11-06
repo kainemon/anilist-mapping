@@ -1,0 +1,13 @@
+{
+    "id": 60,
+    "mal-id": 60,
+    "url": "https://anilist.co/anime/60",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "chrono-crusade",
+            "dub-id": "chrono-crusade-dub"
+        }
+    }
+}

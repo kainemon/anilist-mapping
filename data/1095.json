@@ -1,0 +1,13 @@
+{
+    "id": 1095,
+    "mal-id": 1095,
+    "url": "https://anilist.co/anime/1095",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "patlabor-the-movie",
+            "dub-id": "patlabor-2-the-movie"
+        }
+    }
+}

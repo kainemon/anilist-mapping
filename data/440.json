@@ -1,0 +1,13 @@
+{
+    "id": 440,
+    "mal-id": 440,
+    "url": "https://anilist.co/anime/440",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "revolutionary-girl-utena",
+            "dub-id": "shoujo-kakumei-utena-dub"
+        }
+    }
+}

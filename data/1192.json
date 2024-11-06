@@ -1,0 +1,13 @@
+{
+    "id": 1192,
+    "mal-id": 1192,
+    "url": "https://anilist.co/anime/1192",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kakurenbo-hide-and-seek",
+            "dub-id": "kakurenbo-dub"
+        }
+    }
+}

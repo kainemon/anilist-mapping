@@ -1,0 +1,13 @@
+{
+    "id": 370,
+    "mal-id": 370,
+    "url": "https://anilist.co/anime/370",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "burn-up-excess",
+            "dub-id": "burn-up-excess-dub"
+        }
+    }
+}

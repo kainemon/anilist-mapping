@@ -1,0 +1,13 @@
+{
+    "id": 20807,
+    "mal-id": 30240,
+    "url": "https://anilist.co/anime/20807",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "prison-school",
+            "dub-id": "prison-school-dub"
+        }
+    }
+}

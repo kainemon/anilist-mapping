@@ -1,0 +1,13 @@
+{
+    "id": 274,
+    "mal-id": 274,
+    "url": "https://anilist.co/anime/274",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kiddy-grade",
+            "dub-id": "kiddy-grade-dub"
+        }
+    }
+}

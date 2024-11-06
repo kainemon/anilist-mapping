@@ -1,0 +1,13 @@
+{
+    "id": 101,
+    "mal-id": 101,
+    "url": "https://anilist.co/anime/101",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "air-dub",
+            "dub-id": "air-tv"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1155,
+    "mal-id": 1155,
+    "url": "https://anilist.co/anime/1155",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "melty-lancer-dub",
+            "dub-id": null
+        }
+    }
+}

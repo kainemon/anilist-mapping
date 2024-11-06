@@ -1,0 +1,13 @@
+{
+    "id": 223,
+    "mal-id": 223,
+    "url": "https://anilist.co/anime/223",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-ball",
+            "dub-id": "dragon-ball-dub"
+        }
+    }
+}

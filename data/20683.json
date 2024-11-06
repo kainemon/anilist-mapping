@@ -1,0 +1,13 @@
+{
+    "id": 20683,
+    "mal-id": 23301,
+    "url": "https://anilist.co/anime/20683",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pokemon-xy-mega-evolution",
+            "dub-id": "pokemon-xy-mega-evolution-dub"
+        }
+    }
+}

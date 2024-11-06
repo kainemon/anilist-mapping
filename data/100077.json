@@ -1,0 +1,13 @@
+{
+    "id": 100077,
+    "mal-id": 36296,
+    "url": "https://anilist.co/anime/100077",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hinamatsuri",
+            "dub-id": "hinamatsuri-dub"
+        }
+    }
+}

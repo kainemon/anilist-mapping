@@ -1,0 +1,13 @@
+{
+    "id": 89,
+    "mal-id": 89,
+    "url": "https://anilist.co/anime/89",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "mobile-suit-victory-gundam",
+            "dub-id": null
+        }
+    }
+}

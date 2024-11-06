@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "mal-id": 1,
+    "url": "https://anilist.co/anime/1",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "cowboy-bebop",
+            "dub-id": "cowboy-bebop-dub"
+        }
+    }
+}

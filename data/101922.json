@@ -1,0 +1,13 @@
+{
+    "id": 101922,
+    "mal-id": 38000,
+    "url": "https://anilist.co/anime/101922",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kimetsu-no-yaiba",
+            "dub-id": "kimetsu-no-yaiba-dub"
+        }
+    }
+}

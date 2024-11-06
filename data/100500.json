@@ -1,0 +1,13 @@
+{
+    "id": 100500,
+    "mal-id": 36754,
+    "url": "https://anilist.co/anime/100500",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kakuriyo-no-yadomeshi",
+            "dub-id": "kakuriyo-no-yadomeshi-dub"
+        }
+    }
+}

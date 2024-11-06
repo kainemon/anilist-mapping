@@ -1,0 +1,13 @@
+{
+    "id": 790,
+    "mal-id": 790,
+    "url": "https://anilist.co/anime/790",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "ergo-proxy",
+            "dub-id": "ergo-proxy-dub"
+        }
+    }
+}

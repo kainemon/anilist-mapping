@@ -1,0 +1,13 @@
+{
+    "id": 196,
+    "mal-id": 196,
+    "url": "https://anilist.co/anime/196",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "onegai-twins-",
+            "dub-id": "onegai-twins-dub"
+        }
+    }
+}

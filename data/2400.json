@@ -1,0 +1,13 @@
+{
+    "id": 2400,
+    "mal-id": 2400,
+    "url": "https://anilist.co/anime/2400",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "ghost-sweeper-gs-mikami",
+            "dub-id": null
+        }
+    }
+}

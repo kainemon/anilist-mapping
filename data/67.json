@@ -1,0 +1,13 @@
+{
+    "id": 67,
+    "mal-id": 67,
+    "url": "https://anilist.co/anime/67",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "basilisk",
+            "dub-id": "basilisk-dub"
+        }
+    }
+}

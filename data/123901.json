@@ -1,0 +1,13 @@
+{
+    "id": 123901,
+    "mal-id": 42867,
+    "url": "https://anilist.co/anime/123901",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "kanojo-okarishimasu-petit",
+            "dub-id": null
+        }
+    }
+}

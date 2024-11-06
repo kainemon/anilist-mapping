@@ -1,0 +1,13 @@
+{
+    "id": 100815,
+    "mal-id": 36999,
+    "url": "https://anilist.co/anime/100815",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "zoku-owarimonogatari",
+            "dub-id": "zoku-owarimonogatari-movie"
+        }
+    }
+}

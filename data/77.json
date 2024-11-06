@@ -1,0 +1,13 @@
+{
+    "id": 77,
+    "mal-id": 77,
+    "url": "https://anilist.co/anime/77",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "mahou-shoujo-lyrical-nanoha-as",
+            "dub-id": null
+        }
+    }
+}

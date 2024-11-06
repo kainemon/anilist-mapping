@@ -1,0 +1,13 @@
+{
+    "id": 9000,
+    "mal-id": 9000,
+    "url": "https://anilist.co/anime/9000",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "the-princess-and-the-pilot",
+            "dub-id": null
+        }
+    }
+}

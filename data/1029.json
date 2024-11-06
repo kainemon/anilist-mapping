@@ -1,0 +1,13 @@
+{
+    "id": 1029,
+    "mal-id": 1029,
+    "url": "https://anilist.co/anime/1029",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "only-yesterday",
+            "dub-id": null
+        }
+    }
+}

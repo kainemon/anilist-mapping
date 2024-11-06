@@ -1,0 +1,13 @@
+{
+    "id": 10500,
+    "mal-id": 10500,
+    "url": "https://anilist.co/anime/10500",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "ojiisan-no-lamp",
+            "dub-id": null
+        }
+    }
+}

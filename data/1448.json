@@ -1,0 +1,13 @@
+{
+    "id": 1448,
+    "mal-id": 1448,
+    "url": "https://anilist.co/anime/1448",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "beast-king-golion",
+            "dub-id": "voltron"
+        }
+    }
+}

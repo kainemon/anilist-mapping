@@ -1,0 +1,13 @@
+{
+    "id": 8888,
+    "mal-id": 8888,
+    "url": "https://anilist.co/anime/8888",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "code-geass-boukoku-no-akito-dub",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 28,
+    "mal-id": 28,
+    "url": "https://anilist.co/anime/28",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "yakitate-japan",
+            "dub-id": null
+        }
+    }
+}

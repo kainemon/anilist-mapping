@@ -1,0 +1,13 @@
+{
+    "id": 1337,
+    "mal-id": 1337,
+    "url": "https://anilist.co/anime/1337",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "dororon-enma-kun",
+            "dub-id": null
+        }
+    }
+}

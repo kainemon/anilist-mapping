@@ -1,0 +1,13 @@
+{
+    "id": 1536,
+    "mal-id": 1536,
+    "url": "https://anilist.co/anime/1536",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "buso-renkin",
+            "dub-id": "busou-renkin-dub"
+        }
+    }
+}

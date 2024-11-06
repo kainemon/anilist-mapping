@@ -1,0 +1,13 @@
+{
+    "id": 101101,
+    "mal-id": 36995,
+    "url": "https://anilist.co/anime/101101",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "precure-super-stars-movie",
+            "dub-id": null
+        }
+    }
+}

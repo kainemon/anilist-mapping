@@ -1,0 +1,13 @@
+{
+    "id": 101231,
+    "mal-id": 37396,
+    "url": "https://anilist.co/anime/101231",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "shikioriori",
+            "dub-id": "shikioriori-dub"
+        }
+    }
+}

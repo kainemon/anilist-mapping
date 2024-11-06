@@ -1,0 +1,13 @@
+{
+    "id": 489,
+    "mal-id": 489,
+    "url": "https://anilist.co/anime/489",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "kamichu",
+            "dub-id": "kamichu-dub"
+        }
+    }
+}

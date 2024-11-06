@@ -1,0 +1,13 @@
+{
+    "id": 1887,
+    "mal-id": 1887,
+    "url": "https://anilist.co/anime/1887",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "lucky-star",
+            "dub-id": "luckystar-dub"
+        }
+    }
+}

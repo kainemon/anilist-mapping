@@ -1,0 +1,13 @@
+{
+    "id": 329,
+    "mal-id": 329,
+    "url": "https://anilist.co/anime/329",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "planetes",
+            "dub-id": "planetes-dub"
+        }
+    }
+}

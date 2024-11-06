@@ -1,0 +1,13 @@
+{
+    "id": 2025,
+    "mal-id": 2025,
+    "url": "https://anilist.co/anime/2025",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "darker-than-black",
+            "dub-id": "darker-than-black-kuro-no-keiyakusha-dub"
+        }
+    }
+}

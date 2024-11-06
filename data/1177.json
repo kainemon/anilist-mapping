@@ -1,0 +1,13 @@
+{
+    "id": 1177,
+    "mal-id": 1177,
+    "url": "https://anilist.co/anime/1177",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "alien-9",
+            "dub-id": "alien-9-dub"
+        }
+    }
+}

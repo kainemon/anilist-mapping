@@ -1,0 +1,13 @@
+{
+    "id": 1789,
+    "mal-id": 1789,
+    "url": "https://anilist.co/anime/1789",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "argento-soma-special",
+            "dub-id": "argento-soma-hitori-to-hitori-dub"
+        }
+    }
+}

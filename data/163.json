@@ -1,0 +1,13 @@
+{
+    "id": 163,
+    "mal-id": 163,
+    "url": "https://anilist.co/anime/163",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "power-stone-dub",
+            "dub-id": null
+        }
+    }
+}

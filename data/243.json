@@ -1,0 +1,13 @@
+{
+    "id": 243,
+    "mal-id": 243,
+    "url": "https://anilist.co/anime/243",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gravitation",
+            "dub-id": "gravitation-dub"
+        }
+    }
+}

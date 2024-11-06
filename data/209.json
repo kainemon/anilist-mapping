@@ -1,0 +1,13 @@
+{
+    "id": 209,
+    "mal-id": 209,
+    "url": "https://anilist.co/anime/209",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "r-o-d-the-tv-dub",
+            "dub-id": null
+        }
+    }
+}

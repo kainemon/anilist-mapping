@@ -1,0 +1,13 @@
+{
+    "id": 1232,
+    "mal-id": 1232,
+    "url": "https://anilist.co/anime/1232",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "saber-marionette-r-dub",
+            "dub-id": "saber-marionette-r"
+        }
+    }
+}

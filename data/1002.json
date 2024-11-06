@@ -1,0 +1,13 @@
+{
+    "id": 1002,
+    "mal-id": 1002,
+    "url": "https://anilist.co/anime/1002",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "gunbuster-2",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 120120,
+    "mal-id": 42249,
+    "url": "https://anilist.co/anime/120120",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "tokyo-revengers",
+            "dub-id": "tokyo-revengers-uncensored"
+        }
+    }
+}

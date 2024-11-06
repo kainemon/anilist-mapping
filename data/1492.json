@@ -1,0 +1,13 @@
+{
+    "id": 1492,
+    "mal-id": 1492,
+    "url": "https://anilist.co/anime/1492",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "project-arms-dub",
+            "dub-id": null
+        }
+    }
+}

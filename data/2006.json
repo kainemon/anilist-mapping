@@ -1,0 +1,13 @@
+{
+    "id": 2006,
+    "mal-id": 2006,
+    "url": "https://anilist.co/anime/2006",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "yugioh-movie",
+            "dub-id": null
+        }
+    }
+}

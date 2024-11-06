@@ -1,0 +1,13 @@
+{
+    "id": 5530,
+    "mal-id": 5530,
+    "url": "https://anilist.co/anime/5530",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "pandora-hearts",
+            "dub-id": "pandora-hearts-special"
+        }
+    }
+}

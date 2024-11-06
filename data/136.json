@@ -1,0 +1,13 @@
+{
+    "id": 136,
+    "mal-id": 136,
+    "url": "https://anilist.co/anime/136",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hunter-x-hunter",
+            "dub-id": "hunter-x-hunter-dub"
+        }
+    }
+}

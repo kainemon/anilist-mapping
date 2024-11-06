@@ -1,0 +1,13 @@
+{
+    "id": 253,
+    "mal-id": 253,
+    "url": "https://anilist.co/anime/253",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "hareguu",
+            "dub-id": "hareguu-dub"
+        }
+    }
+}

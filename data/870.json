@@ -1,0 +1,13 @@
+{
+    "id": 870,
+    "mal-id": 870,
+    "url": "https://anilist.co/anime/870",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dragon-half-dub",
+            "dub-id": "dragon-half"
+        }
+    }
+}

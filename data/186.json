@@ -1,0 +1,13 @@
+{
+    "id": 186,
+    "mal-id": 186,
+    "url": "https://anilist.co/anime/186",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "initial-d-second-stage",
+            "dub-id": "initial-d-second-stage-dub"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 411,
+    "mal-id": 411,
+    "url": "https://anilist.co/anime/411",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "gun-x-sword",
+            "dub-id": "gun-x-sword-dub"
+        }
+    }
+}

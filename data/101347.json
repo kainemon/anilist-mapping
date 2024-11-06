@@ -1,0 +1,13 @@
+{
+    "id": 101347,
+    "mal-id": 37520,
+    "url": "https://anilist.co/anime/101347",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "dororo",
+            "dub-id": "dororo-dub"
+        }
+    }
+}

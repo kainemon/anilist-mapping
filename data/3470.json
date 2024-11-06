@@ -1,0 +1,13 @@
+{
+    "id": 3470,
+    "mal-id": 3470,
+    "url": "https://anilist.co/anime/3470",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "special-a",
+            "dub-id": "special-a-dub"
+        }
+    }
+}

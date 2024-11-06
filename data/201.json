@@ -1,0 +1,13 @@
+{
+    "id": 201,
+    "mal-id": 201,
+    "url": "https://anilist.co/anime/201",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "video-girl-ai-dub",
+            "dub-id": "video-girl-ai"
+        }
+    }
+}

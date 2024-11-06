@@ -1,0 +1,13 @@
+{
+    "id": 306,
+    "mal-id": 306,
+    "url": "https://anilist.co/anime/306",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "abenobashi",
+            "dub-id": "abenobashi-mahou-shoutengai-dub"
+        }
+    }
+}

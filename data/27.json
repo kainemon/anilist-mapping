@@ -1,0 +1,13 @@
+{
+    "id": 27,
+    "mal-id": 27,
+    "url": "https://anilist.co/anime/27",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "trinity-blood",
+            "dub-id": "trinity-blood-dub"
+        }
+    }
+}

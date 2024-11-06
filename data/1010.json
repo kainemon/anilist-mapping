@@ -1,0 +1,13 @@
+{
+    "id": 1010,
+    "mal-id": 1010,
+    "url": "https://anilist.co/anime/1010",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou-dub",
+            "dub-id": null
+        }
+    }
+}

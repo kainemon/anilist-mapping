@@ -1,0 +1,13 @@
+{
+    "id": 170,
+    "mal-id": 170,
+    "url": "https://anilist.co/anime/170",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "slam-dunk",
+            "dub-id": "slam-dunk-dub"
+        }
+    }
+}

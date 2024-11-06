@@ -1,0 +1,13 @@
+{
+    "id": 14045,
+    "mal-id": 14045,
+    "url": "https://anilist.co/anime/14045",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mangirl",
+            "dub-id": "mangirl-ova"
+        }
+    }
+}

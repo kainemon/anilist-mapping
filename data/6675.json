@@ -1,0 +1,13 @@
+{
+    "id": 6675,
+    "mal-id": 6675,
+    "url": "https://anilist.co/anime/6675",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "redline",
+            "dub-id": "redline-dub"
+        }
+    }
+}

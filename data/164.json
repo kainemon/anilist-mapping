@@ -1,0 +1,13 @@
+{
+    "id": 164,
+    "mal-id": 164,
+    "url": "https://anilist.co/anime/164",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mononoke-hime-dub",
+            "dub-id": "princess-mononoke"
+        }
+    }
+}

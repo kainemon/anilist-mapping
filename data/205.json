@@ -1,0 +1,13 @@
+{
+    "id": 205,
+    "mal-id": 205,
+    "url": "https://anilist.co/anime/205",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "samurai-champloo",
+            "dub-id": "samurai-champloo-dub"
+        }
+    }
+}

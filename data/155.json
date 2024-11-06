@@ -1,0 +1,13 @@
+{
+    "id": 155,
+    "mal-id": 155,
+    "url": "https://anilist.co/anime/155",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "x1999-movie",
+            "dub-id": null
+        }
+    }
+}

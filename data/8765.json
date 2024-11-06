@@ -1,0 +1,13 @@
+{
+    "id": 8765,
+    "mal-id": 8765,
+    "url": "https://anilist.co/anime/8765",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "futari-gurashi",
+            "dub-id": null
+        }
+    }
+}

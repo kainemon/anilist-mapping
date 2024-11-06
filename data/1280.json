@@ -1,0 +1,13 @@
+{
+    "id": 1280,
+    "mal-id": 1280,
+    "url": "https://anilist.co/anime/1280",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "devil-hunter-yohko",
+            "dub-id": "devil-hunter-yohko-dub"
+        }
+    }
+}

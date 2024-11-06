@@ -1,0 +1,13 @@
+{
+    "id": 101014,
+    "mal-id": 37221,
+    "url": "https://anilist.co/anime/101014",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "release-the-spyce",
+            "dub-id": "release-the-spyce-dub"
+        }
+    }
+}

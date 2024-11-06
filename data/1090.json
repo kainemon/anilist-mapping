@@ -1,0 +1,13 @@
+{
+    "id": 1090,
+    "mal-id": 1090,
+    "url": "https://anilist.co/anime/1090",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-gundam-i-dub",
+            "dub-id": "mobile-suit-gundam-i"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 84,
+    "mal-id": 84,
+    "url": "https://anilist.co/anime/84",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "mobile-suit-gundam-0083-stardust-memory-dub",
+            "dub-id": "mobile-suit-gundam-0083-stardust-memory"
+        }
+    }
+}

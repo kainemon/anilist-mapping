@@ -1,0 +1,13 @@
+{
+    "id": 474,
+    "mal-id": 474,
+    "url": "https://anilist.co/anime/474",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "macross-plus-",
+            "dub-id": "macross-plus-dub"
+        }
+    }
+}

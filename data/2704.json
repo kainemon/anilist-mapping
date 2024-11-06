@@ -1,0 +1,13 @@
+{
+    "id": 2704,
+    "mal-id": 2704,
+    "url": "https://anilist.co/anime/2704",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "steam-detectives",
+            "dub-id": "steam-detectives-dub"
+        }
+    }
+}

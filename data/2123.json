@@ -1,0 +1,13 @@
+{
+    "id": 2123,
+    "mal-id": 2123,
+    "url": "https://anilist.co/anime/2123",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": false,
+            "sub-id": "digimon-x-evolution",
+            "dub-id": null
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": 6201,
+    "mal-id": 6201,
+    "url": "https://anilist.co/anime/6201",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "princess-lover",
+            "dub-id": "princess-lover-uncensored"
+        }
+    }
+}

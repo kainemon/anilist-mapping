@@ -1,0 +1,13 @@
+{
+    "id": 191,
+    "mal-id": 191,
+    "url": "https://anilist.co/anime/191",
+    "mapping": {
+        "gogoanime": {
+            "sub": true,
+            "dub": true,
+            "sub-id": "love-hina-christmas-movie-dub",
+            "dub-id": "love-hina-christmas-special"
+        }
+    }
+}
